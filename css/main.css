@@ -1,0 +1,226 @@
+body {}
+
+p {
+    font-size: 17px;
+    
+    
+}
+
+
+/* --------------Fondo de mola--------------------------------*/
+
+.fondo {
+    background-image: url(mola30.jpg);
+    background-position: center;
+    background-size: 25%;
+}
+
+
+/*------------------------ Fin de fondo de mola----------------------*/
+
+
+/* *****************************************Estilo de index*****************************************/
+
+
+/* ----------------------------------- estilo de Nav--------------------------*/
+
+h1 {
+    font-size: 34px;
+    color: rgb(255, 197, 7);
+}
+
+#navbar {
+    z-index: 3;
+    background: hsl(0, 100%, 29%);
+    font-size: 20px;
+}
+
+.bgnavsecundario {
+    background: hsl(0, 100%, 29%);
+}
+
+#bgnavsecundario {
+    background: hsl(0, 100%, 29%);
+}
+
+.nav-link:hover {
+    background: hsla(46, 100%, 45%, 0.7);
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.navcontenido {
+    list-style: none;
+}
+
+
+/* --------------------fin de estilo de Nav--------------------*/
+
+
+/* ------------------------ estilo de baner--------------------------------*/
+
+.titulodebanner {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.bloquetitulos {
+    background: hsla(46, 100%, 45%, 0.8);
+    color: black;
+}
+
+.subtitulo {
+    font-size: 17px;
+}
+
+
+/*------------------------------------Fin de estilo de baner-----------------------*/
+
+
+/*------------------------------- diseños de bloques de body para abajo--------------------- */
+
+#bloquearticulo {
+    background: hsla(112, 90%, 23%, 0.7);
+}
+
+.card {
+    background: hsla(46, 100%, 45%, 0.7);
+}
+
+.card-title {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.card-border {
+    border: solid 4px white;
+    border-radius: 10px;
+}
+
+.icon-hover {
+    color: white;
+    border: white 1px solid;
+    border-radius: 5px;
+    text-decoration: none;
+    background: hsla(46, 100%, 45%, 0.7);
+}
+
+.icon-hover:hover {
+    background: hsla(46, 100%, 45%, 0.3);
+    color: black
+}
+
+.actividad {
+    color: black;
+}
+
+
+/* ------------------------fin de diseños de bloques de body para abajo----------------------*/
+
+
+/* -----Espacio para todos, para que sea vea como enumerado--------*/
+
+.espacio {
+    margin-left: 20px;
+}
+
+
+/* ----- fin de Espacio para todos, para que sea vea como enumerado--------*/
+
+
+/*************************************************Fin de estilo index*******************************************/
+
+
+/* ------------------------------------------Diseño de footer-------------------------------*/
+
+.bg-footer {
+    background: hsl(0, 100%, 29%);
+}
+
+.icon-hoverfooter:hover {
+    background: hsla(46, 100%, 45%, 0.6);
+    color: white;
+    text-decoration: none;
+}
+
+.bg-footercopy {
+    background: hsla(46, 80%, 50%);
+}
+
+.botonface {
+    background: hsla(46, 100%, 45%);
+    color: white;
+    text-decoration: none;
+}
+
+
+/* el hover del footer lo agarre de icon-hover que se ubica en diseños de bloques de body para abajo */
+
+
+/* ---------------------------Fin de diseño de footer----------------------------------------*/
+
+
+/*----------------------------------------------------------Responsive-------------------------------------------------------*/
+
+@media (min-width: 480px) {
+    /*-----------Baner-------------*/
+    /*---------Fin de Baner----------*/
+}
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {
+    p {
+        font-size: 18px;
+    }
+    /*------Imagen----------*/
+    .d-block {
+        height: 500px;
+    }
+    /*-----Fin de imagen--------*/
+    /*------- Baner---------- */
+    .bloquetitulos {
+        margin-bottom: 5%;
+    }
+    .subtitulo {
+        font-size: 20px;
+    }
+    /*-----------fin de baner------- */
+    .titulodebanner {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 992px) {
+    /* --------Carrusel----------*/
+    .d-block {
+        height: 630px;
+    }
+    /* --------Fin de Carrusel----------*/
+    /*------- Baner---------- */
+    .bloquetitulos {
+        margin-bottom: 10%;
+    }
+    .bloquetitulos {
+        background: hsla(46, 100%, 45%, 0.8);
+        width: 70%;
+    }
+    .logoindex {
+        width: 350px;
+        height: 300px;
+    }
+    /*-----------fin de baner------- */
+}
+
+@media (min-width: 1200px) {
+    /* --------Carrusel----------*/
+    .d-block {
+        height: 650px;
+    }
+    /* --------Fin de Carrusel----------*/
+}
+
+
+/*----------------------------------- Fin de respponsive-------------------------*/
