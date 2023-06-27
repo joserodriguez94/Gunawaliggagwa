@@ -199,7 +199,7 @@
 
                             <div class="card-body">
                                 <h5 class="card-title ">Actividades educativas</h5>
-                                <p class="card-text">Esta sección cosntara de una series de actividades educativas,
+                                <p class="card-text">Esta sección constará de una series de actividades educativas,
                                     donde el
                                     usuario podrá adquirir conocimientos sobre el Pueblo Guna de una manera
                                     dinámica e intuitivamente.</p>
