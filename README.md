@@ -1,2 +1,2 @@
-# Plataforma-Gunawaliggagwa
+# Gunawaliggagwa
 Código de la plataforma Gunawaliggagwa
