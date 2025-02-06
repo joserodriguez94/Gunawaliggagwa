@@ -46,6 +46,7 @@
     .iconodetoque {
         font-size: 12px;
     }
+
     .card-titleguna {
         margin-top: -18px;
     }
@@ -61,19 +62,22 @@
     .card-text-guna {
         height: 400px;
     }
-    
+
 }
 
 @media (min-width: 992px) {
     .card-titleguna {
         margin-top: -30px;
     }
+
     .card-text-guna {
         height: 550px;
     }
+
     .iconodetoquedegunayala {
         font-size: 14px;
     }
+
     .img-info {
         width: 850px;
         height: 400px;

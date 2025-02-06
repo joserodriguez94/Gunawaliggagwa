@@ -1,4 +1,5 @@
 .modal-backdrop.show {
     opacity: .8;
-    filter: alpha(opacity=80); /* Para versiones anteriores de IE */
-    }
+    filter: alpha(opacity=80);
+    /* Para versiones anteriores de IE */
+}

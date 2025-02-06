@@ -2,8 +2,8 @@ body {}
 
 p {
     font-size: 17px;
-    
-    
+
+
 }
 
 
@@ -175,18 +175,22 @@ h1 {
     p {
         font-size: 18px;
     }
+
     /*------Imagen----------*/
     .d-block {
         height: 500px;
     }
+
     /*-----Fin de imagen--------*/
     /*------- Baner---------- */
     .bloquetitulos {
         margin-bottom: 5%;
     }
+
     .subtitulo {
         font-size: 20px;
     }
+
     /*-----------fin de baner------- */
     .titulodebanner {
         font-size: 40px;
@@ -194,31 +198,38 @@ h1 {
 }
 
 @media (min-width: 992px) {
+
     /* --------Carrusel----------*/
     .d-block {
         height: 630px;
     }
+
     /* --------Fin de Carrusel----------*/
     /*------- Baner---------- */
     .bloquetitulos {
         margin-bottom: 10%;
     }
+
     .bloquetitulos {
         background: hsla(46, 100%, 45%, 0.8);
         width: 70%;
     }
+
     .logoindex {
         width: 350px;
         height: 300px;
     }
+
     /*-----------fin de baner------- */
 }
 
 @media (min-width: 1200px) {
+
     /* --------Carrusel----------*/
     .d-block {
         height: 650px;
     }
+
     /* --------Fin de Carrusel----------*/
 }
 

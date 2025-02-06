@@ -1,8 +1,6 @@
+.margintopparapueblostradicionales {
 
-.margintopparapueblostradicionales
-{
-
-margin-top: -15px;
+    margin-top: -15px;
 
 
 }
@@ -11,22 +9,20 @@ margin-top: -15px;
 
 
 
-@media (min-width: 992px)
- {
+@media (min-width: 992px) {
 
-.margindepuertoobaldia
-{
+    .margindepuertoobaldia {
 
-margin-left: 16%;
+        margin-left: 16%;
+
+
+
+
+
+    }
 
 
 
 
 
 }
-
-
-
-
-
- }
