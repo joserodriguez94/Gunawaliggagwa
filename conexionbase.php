@@ -1,8 +1,15 @@
 <?php
+$servername = "localhost"; // Servidor (para local es "localhost")
+$username = "gunawaliggagwa"; // Usuario por defecto en XAMPP
+$password = "Josdri02041994"; // Contraseña vacía en XAMPP
+$database = "formulario_db"; // Nombre de la base de datos
 
-$conex = mysqli_connect("localhost","u424154032_gunawaliggagwa","@Josdri02041994","u424154032_gunawaliggagwa") 
-or die("Error en la conexion a servidor");
+// Crear conexión
+$conn = new mysqli($servername, $username, $password, $database);
 
-
-
+// Verificar conexión
+if ($conn->connect_error) {
+    die("Error de conexión: " . $conn->connect_error);
+}
 ?>
+

@@ -61,50 +61,30 @@
                                     sociales. </p>
                             </div>
 
-                            <form method="post">
+                            <div class="container mt-2">
 
 
+                                <!-- Mensaje de respuesta -->
+                                <div id="mensajeRespuesta"></div>
 
-                                <div class=" nombreformulario">
-
-                                    <label for="nombre"> <b>Nombre completo</b> </label>
-                                    <br>
-
-                                    <input type="text" name="name" placeholder=" Nombre completo">
-                                    <br><br>
-
-                                </div>
-
-
-
-                                <div class="nombreformulario text-center">
-
-                                    <label for="correo"><b> Correo electronico</b></label> <br>
-
-                                    <input type="email" name="email" placeholder="Correo electronico">
-
-                                </div>
-
-
-
-                                <div class="nombreformulario">
-                                    <br>
-                                    <p class="mensaje"><b>Escriba su mensaje<b></p>
-
-                                    <textarea name="mensaje" placeholder="Escriba su mensaje"></textarea>
-
-                                </div>
-
-
-
-
-                                <div class="nombreformulario">
-                                    <input type="submit" name="register" 
-                                    value="Enviar" class=" text-white" style="background:hsla(204, 62%, 40%);">
-                                </div>
-
-                            </form>
-
+                                <!-- Formulario -->
+                                <form id="formMensaje">
+                                    <div class="mb-3">
+                                        <label for="nombre" class="form-label">Nombre:</label>
+                                        <input type="text" class="form-control" id="nombre" name="nombre" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">Correo Electrónico:</label>
+                                        <input type="email" class="form-control" id="email" name="email" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="mensaje" class="form-label">Mensaje:</label>
+                                        <textarea class="form-control" id="mensaje" name="mensaje" rows="4"
+                                            required></textarea>
+                                    </div>
+                                    <button type="submit" class="btn btn-success">Enviar mensaje</button>
+                                </form>
+                            </div>
 
 
 
@@ -146,14 +126,16 @@
 
                             <div class="mb-3">
 
-                                <a class=" icon-hover  botonface btn-floating p-2  m-1" href="https://www.facebook.com/profile.php?id=100057640583552" role="button">
+                                <a class=" icon-hover  botonface btn-floating p-2  m-1"
+                                    href="https://www.facebook.com/profile.php?id=100057640583552" role="button">
                                     <i class="icon-facebook-official p-2"> </i>
                                 </a>
 
 
 
 
-                                <a class=" icon-hover  botonface  btn-floating p-2  m-1" href="https://www.instagram.com/gunawaliggagwa/?hl=es" role="button">
+                                <a class=" icon-hover  botonface  btn-floating p-2  m-1"
+                                    href="https://www.instagram.com/gunawaliggagwa/?hl=es" role="button">
                                     <i class="icon-instagram p-2"></i>
                                 </a>
 

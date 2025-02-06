@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-xl  navbar-dark  position-fixed w-100 " id="navbar">
+<nav class="navbar  navbar-dark  position-fixed w-100 " id="navbar">
     <div class="container-fluid">
 
         <a class=" text-decoration-none  text-center " href="index.php">

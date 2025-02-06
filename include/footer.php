@@ -25,7 +25,7 @@
         </section>
 
         <div class="  text-center p-3 text-dark bg-footercopy">
-        Copyright © 2023 Guna Waliggagwa.Todos los derechos reservados <br>
+        Copyright © 2025 Guna Waliggagwa.Todos los derechos reservados <br>
           
         </div>
         
