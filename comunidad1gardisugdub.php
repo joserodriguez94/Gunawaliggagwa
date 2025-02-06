@@ -5,9 +5,9 @@
 
 
     <?php
-   include ('./include/header.php');
-   
-   ?>
+    include('./include/header.php');
+
+    ?>
 
 </head>
 
@@ -15,9 +15,9 @@
 
     <!--Nav -->
     <?php
-   include ('./include/nav.php');
-   
-   ?>
+    include('./include/nav.php');
+
+    ?>
 
     <!--Fin de nav -->
 
@@ -1942,9 +1942,9 @@
 
     <!--Footer-->
     <?php
-   include ('./include/footer.php');
-   
-   ?>
+    include('./include/footer.php');
+
+    ?>
     <!--Fin Footer-->
 
     </div>
@@ -1960,9 +1960,9 @@
 
     <!--Scripts-->
     <?php
-   include ('./include/script.php');
-   
-   ?>
+    include('./include/script.php');
+
+    ?>
     <!--Fin Scripts-->
 
 </body>

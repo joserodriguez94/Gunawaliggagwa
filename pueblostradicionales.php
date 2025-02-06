@@ -5,9 +5,9 @@
 
 
     <?php
-   include ('./include/header.php');
-   
-   ?>
+    include('./include/header.php');
+
+    ?>
 
 </head>
 
@@ -15,17 +15,17 @@
 
     <!--Nav -->
     <?php
-   include ('./include/nav.php');
-   
-   ?>
+    include('./include/nav.php');
+
+    ?>
 
     <!--Fin de nav -->
 
     <!--Slider-->
     <?php
-   include ('./include/slidesprincipio.php');
-   
-   ?>
+    include('./include/slidesprincipio.php');
+
+    ?>
     <!--Fin Slider-->
 
 
@@ -128,18 +128,18 @@
                         <h2 class=" text-center mt-3 mb-5 fs-1 "> <b> Corregimiento de Ailigandi (Agligandi) </b> </h2>
                     </div>
 
-                    <center>   
-                    <div class="col-12 col-sm-6 col-lg-4  ">
-                        <div class="card card-border w-100  mb-5">
+                    <center>
+                        <div class="col-12 col-sm-6 col-lg-4  ">
+                            <div class="card card-border w-100  mb-5">
 
-                            <div class="text-white card-body mt-5 ">
-                                <h3>Próximamente sus comunidades. </h3>
-                                <br>
+                                <div class="text-white card-body mt-5 ">
+                                    <h3>Próximamente sus comunidades. </h3>
+                                    <br>
 
-                                <br>
+                                    <br>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
                     </center>
 
@@ -149,17 +149,17 @@
 
                     <center>
 
-                    <div class="col-12 col-sm-6 col-lg-4">
-                        <div class="card card-border w-100  mb-5">
+                        <div class="col-12 col-sm-6 col-lg-4">
+                            <div class="card card-border w-100  mb-5">
 
-                            <div class="text-white card-body mt-5 ">
-                                <h3>Próximamente sus comunidades. </h3>
-                                <br>
+                                <div class="text-white card-body mt-5 ">
+                                    <h3>Próximamente sus comunidades. </h3>
+                                    <br>
 
-                                <br>
+                                    <br>
+                                </div>
                             </div>
                         </div>
-                    </div>
                     </center>
 
                     <div>
@@ -168,17 +168,17 @@
 
                     <center>
 
-                    <div class="col-12 col-sm-6 col-lg-4">
-                        <div class="card card-border w-100  mb-5">
+                        <div class="col-12 col-sm-6 col-lg-4">
+                            <div class="card card-border w-100  mb-5">
 
-                            <div class="text-white card-body mt-5 ">
-                                <h3>Próximamente sus comunidades. </h3>
-                                <br>
+                                <div class="text-white card-body mt-5 ">
+                                    <h3>Próximamente sus comunidades. </h3>
+                                    <br>
 
-                                <br>
+                                    <br>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
                     </center>
 
@@ -227,18 +227,18 @@
 
         <!--Footer-->
         <?php
-   include ('./include/footer.php');
-   
-   ?>
+        include('./include/footer.php');
+
+        ?>
         <!--Fin Footer-->
 
     </div>
 
     <!--Scripts-->
     <?php
-   include ('./include/script.php');
-   
-   ?>
+    include('./include/script.php');
+
+    ?>
     <!--Fin Scripts-->
 
     <script src="js/scrollpueblos.js"></script>

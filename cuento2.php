@@ -94,7 +94,8 @@
                         diigi ibyenaid ga ise oyoar, -wese an amiabbi-, ¡ar be abemogar sunna be aminomodo!</div>
                       Igarobandur diise argwadde; geg doge diigi muamagnaguali. Nii wilub diibirgi
                       dodonagusa, igarobandur argwaddedba.
-                      <div class="espacio font-italic bg-gunayala"> -¿Ar be ig dogsasunna? –Igarobandur, Usse egissa.<br>
+                      <div class="espacio font-italic bg-gunayala"> -¿Ar be ig dogsasunna? –Igarobandur, Usse
+                        egissa.<br>
                         -¡An irgwensur imagsa! –Us e aigi dodonagude.<br>
                         -¡Andi na duggargi aggwa agdiggid edidsa, geb dommo…!</div>
                       Igarobandur gwengwenasur guali. Usse godsasunna e duggargi aggwa
@@ -165,7 +166,8 @@
                       La luna pintaba su carita redonda sobre el agua.
                       El agua era como el espejo de la luna. La luna se mecía suavecita sobre la corriente del río.
                       Usu comía guanábana a la orilla del río.<br>
-                      <div class="espacio font-italic bg-gunayala"> - ¡Dame un pedazo! <br> -pidió Igarobandur a Usu con su voz carrasposa. </div>
+                      <div class="espacio font-italic bg-gunayala"> - ¡Dame un pedazo! <br> -pidió Igarobandur a Usu con
+                        su voz carrasposa. </div>
                       Usu le dio un pedacito. Y... imurgi, murgi, murgi!
                       <div class="espacio font-italic bg-gunayala"> - ¿De dónde sacaste una fruta tan sabrosa?<br>
                         - preguntó Igarobandur.<br>
@@ -219,10 +221,12 @@
         <center>
           <div class="d-flex flex-wrap mt-2" style="justify-content: center;">
 
-            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./cuento1.php" style="text-decoration:none"> Anterior
+            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./cuento1.php"
+              style="text-decoration:none"> Anterior
             </a>
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de cuentos
+            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de
+              cuentos
 
               <div class="icon-menu "> </div>
 
@@ -253,7 +257,8 @@
 
 
             <div>
-              <h2 class=" text-center mt-1"> <b> IGAROBANDUR US EBO 2 / EL JAGUAR Y EL ÑEQUE 2 <br> (VIDEO EN VERSIÓN ESPAÑOL) </b> </h2>
+              <h2 class=" text-center mt-1"> <b> IGAROBANDUR US EBO 2 / EL JAGUAR Y EL ÑEQUE 2 <br> (VIDEO EN VERSIÓN
+                  ESPAÑOL) </b> </h2>
             </div>
 
 
@@ -276,7 +281,8 @@
 
 
                   <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/FapqZKPDGrU" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/FapqZKPDGrU" title="YouTube video"
+                      allowfullscreen></iframe>
                   </div>
 
 
@@ -313,7 +319,8 @@
 
 
 
-              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/FapqZKPDGrU" style="text-decoration:none"> Ver Video en Youtube
+              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/FapqZKPDGrU"
+                style="text-decoration:none"> Ver Video en Youtube
 
 
 

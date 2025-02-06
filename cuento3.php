@@ -234,10 +234,12 @@
         <center>
           <div class="d-flex flex-wrap mt-2" style="justify-content: center;">
 
-            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./cuento2.php" style="text-decoration:none"> Anterior
+            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./cuento2.php"
+              style="text-decoration:none"> Anterior
             </a>
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de cuentos
+            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de
+              cuentos
 
               <div class="icon-menu "> </div>
 
@@ -286,7 +288,8 @@
 
 
                   <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/R6Pb_8_aFFI" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/R6Pb_8_aFFI" title="YouTube video"
+                      allowfullscreen></iframe>
                   </div>
 
 
@@ -325,7 +328,8 @@
 
 
 
-              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/R6Pb_8_aFFI" style="text-decoration:none"> Ver Video en Youtube
+              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/R6Pb_8_aFFI"
+                style="text-decoration:none"> Ver Video en Youtube
 
 
 

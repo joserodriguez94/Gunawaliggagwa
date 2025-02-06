@@ -173,7 +173,8 @@
                       Igarobandur, el jaguar, no era alegre. Siempre estaba con la cara estirada.
                       No bromeaba y era de pocos amigos.<br>
                       Un día, Usu, el ñeque, dijo para sí:<br>
-                      <div class="espacio font-italic bg-gunayala"> - Estos hombres que meten miedo a la gente, que se creen fuertes,
+                      <div class="espacio font-italic bg-gunayala"> - Estos hombres que meten miedo a la gente, que se
+                        creen fuertes,
                         caen fácilmente en una trampa! ¡Ahora, me van a ver,... eddo soooooo!</div>
 
                       Entonces, Usu preparó una gran comida e invitó a Igarobandur.
@@ -183,15 +184,18 @@
                       <div class="espacio font-italic bg-gunayala">- ¡Si quieres más, no tengas pena de pedir...!<br>
                         - decía Usu a Igarobandur - , yo puedo subir al árbol para traértelas.</div>
                       Igarobandur pidió más. Entonces, Usu aclaró:<br>
-                      <div class="espacio font-italic bg-gunayala">- ¡Muy bien, amigo mío, pero tienes que acompañarme! ¡Te pondrás debajo del
+                      <div class="espacio font-italic bg-gunayala">- ¡Muy bien, amigo mío, pero tienes que acompañarme!
+                        ¡Te pondrás debajo del
                         árbol, mientras yo subo y te las voy tirando!</div>
                       Usu llevó consigo dos piedras redondas y dos bolas de carne, y subió al árbol.<br>
-                      <div class="espacio font-italic bg-gunayala">- ¡Abre bien la boca, porque esta fruta está muy madura!, - gritaba Usu a Igarobandur
+                      <div class="espacio font-italic bg-gunayala">- ¡Abre bien la boca, porque esta fruta está muy
+                        madura!, - gritaba Usu a Igarobandur
                         desde la copa del árbol.</div>
                       Primera le tiró una bola de carne. Igarobandur la apaño con la boca y la comió,
                       ¡Chas, chas, chas murgi! Al tercer tiro, Usu exclamó muy serio:<br>
 
-                      <div class="espacio font-italic bg-gunayala">-¡Amigo mío, ahora, te la encontré una más sabrosa de todas, pero... está muy madura,
+                      <div class="espacio font-italic bg-gunayala">-¡Amigo mío, ahora, te la encontré una más sabrosa de
+                        todas, pero... está muy madura,
                         pero…muy madura, no la puedes tocar con la mano! ¡Abre la boca con toda tu fuerza para
                         que no se te escape!</div>
                       Usu lanzó la piedra con todo su nervio, ¡tac, tac, pum! La piedra vino a darse contra
@@ -240,7 +244,8 @@
 
 
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de cuentos
+            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de
+              cuentos
 
               <div class="icon-menu "> </div>
 
@@ -266,7 +271,8 @@
 
 
             <div>
-              <h2 class=" text-center mt-1"> <b> IGAROBANDUR US EBO 1 / EL JAGUAR Y EL ÑEQUE 1 <br> (VIDEO EN VERSIÓN ESPAÑOL) </b> </h2>
+              <h2 class=" text-center mt-1"> <b> IGAROBANDUR US EBO 1 / EL JAGUAR Y EL ÑEQUE 1 <br> (VIDEO EN VERSIÓN
+                  ESPAÑOL) </b> </h2>
             </div>
 
 
@@ -287,7 +293,8 @@
 
 
                   <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/uXp-8F0RtY8" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/uXp-8F0RtY8" title="YouTube video"
+                      allowfullscreen></iframe>
                   </div>
 
 
@@ -329,7 +336,8 @@
 
 
 
-              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/uXp-8F0RtY8" style="text-decoration:none"> Ver Video en Youtube
+              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/uXp-8F0RtY8"
+                style="text-decoration:none"> Ver Video en Youtube
 
 
 

@@ -4,7 +4,7 @@
 <head>
 
 
-<?php
+    <?php
     include('./include/header.php');
 
     ?>
@@ -82,7 +82,7 @@
 
                         <div class="card-body">
                             <div>
-                                <h2 class=" fs-1 mt-1"> <b> VISIÓN  </b> </h2>
+                                <h2 class=" fs-1 mt-1"> <b> VISIÓN </b> </h2>
                             </div>
 
 
@@ -195,13 +195,17 @@
 
                                     <div class="ml-xl-5 ">
 
-                                        <img src="logos/pixlr-bg-result.png" class="  m-xl-5  m-2  img-fluid " width="150" height="100" alt="...">
+                                        <img src="logos/pixlr-bg-result.png" class="  m-xl-5  m-2  img-fluid "
+                                            width="150" height="100" alt="...">
 
-                                        <img src="logos/Logo UP.png" class=" m-xl-5 m-2  img-fluid " width="140" height="100" alt="...">
+                                        <img src="logos/Logo UP.png" class=" m-xl-5 m-2  img-fluid " width="140"
+                                            height="100" alt="...">
 
-                                        <img src="logos/fiec-logo-300x219.png" class="  m-xl-5  m-2 img-fluid " width="160" height="100" alt="...">
+                                        <img src="logos/fiec-logo-300x219.png" class="  m-xl-5  m-2 img-fluid "
+                                            width="160" height="100" alt="...">
 
-                                        <img src="logos/logo opinup.png" class="  m-xl-5  m-2 img-fluid " width="140" height="100" alt="...">
+                                        <img src="logos/logo opinup.png" class="  m-xl-5  m-2 img-fluid " width="140"
+                                            height="100" alt="...">
                                     </div>
 
 
@@ -239,7 +243,7 @@
 
                         <div class="card-body">
                             <div>
-                                <h2 class=" fs-1 mt-1"> <b>  GALARDONES</b> </h2>
+                                <h2 class=" fs-1 mt-1"> <b> GALARDONES</b> </h2>
                             </div>
 
 
@@ -287,14 +291,16 @@
 
                             <div class="mb-3">
 
-                                <a class=" icon-hover  botonface btn-floating p-2  m-1" href="https://www.facebook.com/profile.php?id=100057640583552" role="button">
+                                <a class=" icon-hover  botonface btn-floating p-2  m-1"
+                                    href="https://www.facebook.com/profile.php?id=100057640583552" role="button">
                                     <i class="icon-facebook-official p-2"> </i>
                                 </a>
 
 
 
 
-                                <a class=" icon-hover  botonface  btn-floating p-2  m-1" href="https://www.instagram.com/gunawaliggagwa/?hl=es" role="button">
+                                <a class=" icon-hover  botonface  btn-floating p-2  m-1"
+                                    href="https://www.instagram.com/gunawaliggagwa/?hl=es" role="button">
                                     <i class="icon-instagram p-2"></i>
                                 </a>
 
@@ -389,7 +395,7 @@
         <!--Fin Scripts-->
 
 
-    </body>
+</body>
 
 
 

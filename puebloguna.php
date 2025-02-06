@@ -169,7 +169,8 @@
                             <br>
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5>
-                                <p> <i>Castillo, B. (2015). Encuentro. El mar del sur: 500 años después. Una visión interdisciplinaria. Panamá: Universitaria Carlos Manuel Gasteazoro.</i>
+                                <p> <i>Castillo, B. (2015). Encuentro. El mar del sur: 500 años después. Una visión
+                                        interdisciplinaria. Panamá: Universitaria Carlos Manuel Gasteazoro.</i>
                             </div>
 
                         </div>
@@ -209,7 +210,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> ¿QUÉ ES LA IDENTIDAD CULTURAL GUNA?<br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> ¿QUÉ ES LA IDENTIDAD CULTURAL GUNA?<br> (VIDEO) </b>
+                            </h2>
                         </div>
 
 
@@ -231,7 +233,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/RzpqmcDsbmI" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/RzpqmcDsbmI" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -269,7 +272,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://youtu.be/AgVjS6qAR2E" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://youtu.be/AgVjS6qAR2E"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
@@ -334,8 +338,11 @@
                                 <div class=" p-2 ">
                                     <p>
 
-                                        La Comarca Tulenega, fue el territorio indígena logrado bajo un Convenio del pueblo dule con los Estados Unidos de Colombia en 1871 y se conformaba desde Punta Escribano
-                                        y lo que hoy sería la Comarca Gunayala, Comarca Wargandi, Comarca Madungandi y Dagargunyala,
+                                        La Comarca Tulenega, fue el territorio indígena logrado bajo un Convenio del
+                                        pueblo dule con los Estados Unidos de Colombia en 1871 y se conformaba desde
+                                        Punta Escribano
+                                        y lo que hoy sería la Comarca Gunayala, Comarca Wargandi, Comarca Madungandi y
+                                        Dagargunyala,
                                         hasta Punta Arena por el Golfo de Urabá en Colombia (ver figura 1.1)
 
 
@@ -355,7 +362,9 @@
 
 
                                             <div class="centreadodentroderegiones mt-3">
-                                                <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center " href="https://earth.google.com/earth/d/1Q6zFJaXtT1AbsYUD6wlb2fqS_EV13GW9?usp=sharing" target="_blank" style="text-decoration:none "> Ver mapa en google
+                                                <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center "
+                                                    href="https://earth.google.com/earth/d/1Q6zFJaXtT1AbsYUD6wlb2fqS_EV13GW9?usp=sharing"
+                                                    target="_blank" style="text-decoration:none "> Ver mapa en google
                                                     earth
                                                 </a>
                                             </div>
@@ -369,10 +378,13 @@
                                     <br>
                                     <p>
 
-                                        Sin embargo, la región se dividió y desapareció por la separación de Panamá y Colombia en 1903. Puesto que los colombianos y
-                                        panameños impusieron una línea divisora dentro de la comarca sin su consentimiento a pesar de que tenían un estatus legal.
+                                        Sin embargo, la región se dividió y desapareció por la separación de Panamá y
+                                        Colombia en 1903. Puesto que los colombianos y
+                                        panameños impusieron una línea divisora dentro de la comarca sin su
+                                        consentimiento a pesar de que tenían un estatus legal.
                                         Todo esto por la codicia de los recursos naturales e
-                                        intereses estatales por parte de Colombia, Estados Unidos y Panamá que dejaron la zona en solo papeles. Trazo fronterizo que en la actualidad
+                                        intereses estatales por parte de Colombia, Estados Unidos y Panamá que dejaron
+                                        la zona en solo papeles. Trazo fronterizo que en la actualidad
                                         sirve como frontera entre Panamá
                                         (Darién) y Colombia (ver figura 1.2).
 
@@ -384,14 +396,18 @@
 
                                         <div class="bg-gunayala border-dark  " style="max-width: 25rem;">
 
-                                            <div class="card-header text-center"> Figura 1.2. Línea divisora de la Comarca Tulenega / Frontera de Panamá y Colombia
+                                            <div class="card-header text-center"> Figura 1.2. Línea divisora de la
+                                                Comarca Tulenega / Frontera de Panamá y Colombia
                                             </div>
 
-                                            <img src="img/Linea divisora de Tulenega.png" class=" imggunayala img-fluid " alt="...">
+                                            <img src="img/Linea divisora de Tulenega.png"
+                                                class=" imggunayala img-fluid " alt="...">
 
 
                                             <div class="centreadodentroderegiones mt-3">
-                                                <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center " href="https://earth.google.com/earth/d/1uBZiY5Ltddc9t2hKJQ-53KtfGzCgtT_b?usp=sharing" target="_blank" style="text-decoration:none "> Ver mapa en google
+                                                <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center "
+                                                    href="https://earth.google.com/earth/d/1uBZiY5Ltddc9t2hKJQ-53KtfGzCgtT_b?usp=sharing"
+                                                    target="_blank" style="text-decoration:none "> Ver mapa en google
                                                     earth
                                                 </a>
                                             </div>
@@ -405,42 +421,56 @@
                                     <br>
 
                                     <p>
-                                        No obstante, a pesar de su inexistencia la Comarca Tulenega es el antecedente de las bases de la autonomía y
+                                        No obstante, a pesar de su inexistencia la Comarca Tulenega es el antecedente de
+                                        las bases de la autonomía y
                                         autogobierno de todas las comarcas o áreas actuales del pueblo guna.
                                         Es más, de todos los pueblos milenarios que existen en Panamá y Colombia.
 
                                         <br>
                                         <br>
-                                        En este punto describiremos un poco de los sucesos y personajes 
-                                        que marcaron la historia de Tulenega desde 1870 a 1903, el cual se dividirá en 3 etapas:
+                                        En este punto describiremos un poco de los sucesos y personajes
+                                        que marcaron la historia de Tulenega desde 1870 a 1903, el cual se dividirá en 3
+                                        etapas:
 
                                     <ol>
                                         <dt class=" mb-3">
                                             <li> Creación de la Comarca Gunayala </li>
                                         </dt>
 
-                                        A mediados de 1870 se reúnen dirigentes y neles guna en la comunidad de Diduggo, antigua capital del pueblo guna,
-                                        para debatir las quejas y ponerse de acuerdo con los nuevos acontecimientos que sucederán con sus pueblos.
-                                        Quedando así como jefes Dunabiler (Tina-Pilele) de carácter político y Ologubbilele (Olocu-Pilele) de carácter religioso.<br> <br>
+                                        A mediados de 1870 se reúnen dirigentes y neles guna en la comunidad de Diduggo,
+                                        antigua capital del pueblo guna,
+                                        para debatir las quejas y ponerse de acuerdo con los nuevos acontecimientos que
+                                        sucederán con sus pueblos.
+                                        Quedando así como jefes Dunabiler (Tina-Pilele) de carácter político y
+                                        Ologubbilele (Olocu-Pilele) de carácter religioso.<br> <br>
 
                                         En este contexto, aproximadamente para el mes de julio de 1870,
-                                        salieron del Darién del Norte una comisión de líderes guna que iban en nombre de los jefes hacia Bogotá (Colombia),
-                                        viaje que tenía como el fin de presentar las graves situaciones que aquejaba a los guna,
-                                        tramitar un compromiso de solución por parte del gobierno central y gestionar un convenio con las autoridades colombiana para proteger sus límites.
-                                        El recorrido duró casi 125 días, desde su salida hasta su llegada a Bogotá, el 21 de noviembre de 1870,
-                                        donde expresaron sus quejas y se da la base legal para la creación de la Comarca Tulenega basándose en la ley 45 del 4 de junio de 1870,
+                                        salieron del Darién del Norte una comisión de líderes guna que iban en nombre de
+                                        los jefes hacia Bogotá (Colombia),
+                                        viaje que tenía como el fin de presentar las graves situaciones que aquejaba a
+                                        los guna,
+                                        tramitar un compromiso de solución por parte del gobierno central y gestionar un
+                                        convenio con las autoridades colombiana para proteger sus límites.
+                                        El recorrido duró casi 125 días, desde su salida hasta su llegada a Bogotá, el
+                                        21 de noviembre de 1870,
+                                        donde expresaron sus quejas y se da la base legal para la creación de la Comarca
+                                        Tulenega basándose en la ley 45 del 4 de junio de 1870,
                                         “Sobre la reducción de los indios salvajes”. <br> <br>
 
 
 
 
 
-                                        En tal virtud, luego se firma el Convenio el 10 de enero de 1871 y se crea la Comarca Tulenega,
-                                        después su Comunicación en marzo 29 de 1871 y su Decreto el 29 de abril de 1871. <br> <br>
+                                        En tal virtud, luego se firma el Convenio el 10 de enero de 1871 y se crea la
+                                        Comarca Tulenega,
+                                        después su Comunicación en marzo 29 de 1871 y su Decreto el 29 de abril de 1871.
+                                        <br> <br>
 
-                                        A tal efecto, a partir de este momento se aumenta el ingreso de extranjeros al territorio.
+                                        A tal efecto, a partir de este momento se aumenta el ingreso de extranjeros al
+                                        territorio.
                                         Y los guna no podían hacer mucho porque debían respetar el acuerdo firmado.
-                                        Ya que estas leyes que se impusieron en el Convenio les justificaban los actos al Gobierno de Colombia.
+                                        Ya que estas leyes que se impusieron en el Convenio les justificaban los actos
+                                        al Gobierno de Colombia.
 
 
 
@@ -448,60 +478,79 @@
                                             <li> Reestructuración de la Comarca Tulenega </li>
                                         </dt>
 
-                                        Pasaron años y más o menos para 1880, el sagla y nele Abisua de Yandub (Narganá),
-                                        comunidad que para estos tiempos era un poblado de la Comarca Tulenega, 
+                                        Pasaron años y más o menos para 1880, el sagla y nele Abisua de Yandub
+                                        (Narganá),
+                                        comunidad que para estos tiempos era un poblado de la Comarca Tulenega,
                                         y desde el siglo XX es parte de la Comarca Gunayala,
-                                        retoma la estructuración cultural y política-administrativa 
-                                        del pueblo guna y de la Comarca Tulenega que se había decaído 
+                                        retoma la estructuración cultural y política-administrativa
+                                        del pueblo guna y de la Comarca Tulenega que se había decaído
                                         con la muerte de sus líderes antiguos. <br> <br>
 
-                                        Igualmente, impulsa los temas culturales, espirituales, económicos y ambientales. 
+                                        Igualmente, impulsa los temas culturales, espirituales, económicos y
+                                        ambientales.
                                         Sobre todo, difunde con mayor intensidad los relatos del Babigala,
-                                        cantos sagrados que no eran tan conocido como en su región de nacimiento, Acandí (Colombia). <br> <br>
+                                        cantos sagrados que no eran tan conocido como en su región de nacimiento, Acandí
+                                        (Colombia). <br> <br>
 
-                                        Pero, empezó a enfermarse, y en Yandub (Narganá) convoca un Congreso General 
+                                        Pero, empezó a enfermarse, y en Yandub (Narganá) convoca un Congreso General
                                         (Onmaggeddummad) para crear los Congresos Generales (Onmaggeddummagan)
                                         y la escogencia de los sagladummagan (caciques generales). <br> <br>
 
-                                        De esta manera, fue designado como sagladummagan a Inanagginia como primero y Ologindibilele (Simral Colman)
-                                        como segundo para dirigir al pueblo dule y obtener mejores resultados con el Gobierno colombiano. <br> <br>
+                                        De esta manera, fue designado como sagladummagan a Inanagginia como primero y
+                                        Ologindibilele (Simral Colman)
+                                        como segundo para dirigir al pueblo dule y obtener mejores resultados con el
+                                        Gobierno colombiano. <br> <br>
 
-                                        No obstante, cabe mencionar que durante este Congreso General los ancianos u 
+                                        No obstante, cabe mencionar que durante este Congreso General los ancianos u
                                         otros líderes sugirieron que el fuera el líder supremo por ser el precursor y
-                                        el más capacitado en los tratados del Babigala. Sin embargo, él dijo que no 
-                                        podía por su avanzada edad pero que si ayudaría como asesor y guía de los nuevos sagladummagan.
+                                        el más capacitado en los tratados del Babigala. Sin embargo, él dijo que no
+                                        podía por su avanzada edad pero que si ayudaría como asesor y guía de los nuevos
+                                        sagladummagan.
 
 
                                         <dt class=" mt-4 mb-3">
                                             <li> Reanudación y desaparición de la Comarca Tulenega </li>
                                         </dt>
 
-                                        Así pasaron muchos años, donde el pueblo guna pudo vivir bajo sus propias estructuras 
+                                        Así pasaron muchos años, donde el pueblo guna pudo vivir bajo sus propias
+                                        estructuras
                                         de Gobierno y empezar a desarrollarlas aún más.
-                                        Etapa que estaba encabezado por los sagladummagan Inanagginia y Ologindibilele (Simral Colman). <br> <br>
+                                        Etapa que estaba encabezado por los sagladummagan Inanagginia y Ologindibilele
+                                        (Simral Colman). <br> <br>
 
-                                        En cambio, no hasta la separación de Panamá de Colombia el 3 de noviembre de 1903, este hecho interrumpió la paz del pueblo.
-                                        Desencadenando la división y desaparición de la Comarca Tulenega por una línea fronteriza entre Panamá y Colombia.
+                                        En cambio, no hasta la separación de Panamá de Colombia el 3 de noviembre de
+                                        1903, este hecho interrumpió la paz del pueblo.
+                                        Desencadenando la división y desaparición de la Comarca Tulenega por una línea
+                                        fronteriza entre Panamá y Colombia.
                                         El cual se asignó y pasó sin el consentimiento del Gobierno de Tulenega,
-                                        ya que estos fueron excluidos en las negociaciones políticas y estales entre estas naciones en 1903. <br> <br>
+                                        ya que estos fueron excluidos en las negociaciones políticas y estales entre
+                                        estas naciones en 1903. <br> <br>
 
-                                        Por ese motivo, en este siglo XXI la Comarca Tulenega no existe, pero se dividió y con el tiempo empezaron a surgir nuevas regiones,
-                                        quedándose y denominándose en Panamá, como la Comarca Gunayala (Panamá), Comarca Wargandi, Comarca Madungandi y Dagargunyala,
-                                        y en Colombia, como Resguardo de Maggilagundiwar (Arquía) y Resguardo de Ibgigundiwar (Caimán Nuevo) (ver figura 1.3).
+                                        Por ese motivo, en este siglo XXI la Comarca Tulenega no existe, pero se dividió
+                                        y con el tiempo empezaron a surgir nuevas regiones,
+                                        quedándose y denominándose en Panamá, como la Comarca Gunayala (Panamá), Comarca
+                                        Wargandi, Comarca Madungandi y Dagargunyala,
+                                        y en Colombia, como Resguardo de Maggilagundiwar (Arquía) y Resguardo de
+                                        Ibgigundiwar (Caimán Nuevo) (ver figura 1.3).
 
 
                                         <div class="d-flex mt-3" style="align-items: center; justify-content: center;">
 
                                             <div class="bg-gunayala border-dark  " style="max-width: 25rem;">
 
-                                                <div class="card-header text-center"> Figura 1.3. Regiones que actualmente el pueblo guna habita
+                                                <div class="card-header text-center"> Figura 1.3. Regiones que
+                                                    actualmente el pueblo guna habita
                                                 </div>
 
-                                                <img src="img/Regiones que el pueblo guna habita.png" class=" imggunayala img-fluid " alt="...">
+                                                <img src="img/Regiones que el pueblo guna habita.png"
+                                                    class=" imggunayala img-fluid " alt="...">
 
 
                                                 <div class="centreadodentroderegiones mt-3">
-                                                    <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center " href="https://earth.google.com/earth/d/1kuNBRceG8YHwWQJa369tXVXoGljMceyn?usp=sharing" target="_blank" style="text-decoration:none "> Ver mapa en google
+                                                    <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center "
+                                                        href="https://earth.google.com/earth/d/1kuNBRceG8YHwWQJa369tXVXoGljMceyn?usp=sharing"
+                                                        target="_blank" style="text-decoration:none "> Ver mapa en
+                                                        google
                                                         earth
                                                     </a>
                                                 </div>
@@ -536,8 +585,9 @@
 
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5>
-                                <p> <i>Castillo, B. (2018). La Comarca Tulenega de 1871 como antecedente en la construcción de la autonomía guna en Panamá. 
-                                    Panamá: Universidad de Panamá.</i>
+                                <p> <i>Castillo, B. (2018). La Comarca Tulenega de 1871 como antecedente en la
+                                        construcción de la autonomía guna en Panamá.
+                                        Panamá: Universidad de Panamá.</i>
                             </div>
 
 
@@ -600,7 +650,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/AgVjS6qAR2E" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/AgVjS6qAR2E" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -637,7 +688,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://youtu.be/AgVjS6qAR2E" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://youtu.be/AgVjS6qAR2E"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
@@ -695,7 +747,8 @@
 
 
                         <div class="  w-100 ">
-                            <h2 class=" fs-1  text-center mt-3 "> <b> HISTORIA DE LOS CONGRESOS CULTURALES GUNA</b> </h2>
+                            <h2 class=" fs-1  text-center mt-3 "> <b> HISTORIA DE LOS CONGRESOS CULTURALES GUNA</b>
+                            </h2>
                             <p><i>Fecha de publicación: 5/1/2023</i></p>
                             <div class=" bg-bloquegunayala p-2  card-text-guna ">
                                 <div class=" p-2 ">
@@ -897,7 +950,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> HISTORIA DE LOS CONGRESOS CULTURALES GUNA<br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> HISTORIA DE LOS CONGRESOS CULTURALES GUNA<br> (VIDEO)
+                                </b> </h2>
                         </div>
 
 
@@ -919,7 +973,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/hve54HWNN_4" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/hve54HWNN_4" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -958,7 +1013,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/hve54HWNN_4" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/hve54HWNN_4"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
@@ -1006,7 +1062,8 @@
 
 
                         <div class=" text-center  mt-2 mt-xl-5">
-                            <img src="img/UNA VISION HISTORICA DE LOS KUNAS EN EL PERIODO COLONIAL DE LOS SIGLOS XVI- XVII.png" class=" img-info img-fluid" alt="...">
+                            <img src="img/UNA VISION HISTORICA DE LOS KUNAS EN EL PERIODO COLONIAL DE LOS SIGLOS XVI- XVII.png"
+                                class=" img-info img-fluid" alt="...">
 
 
 
@@ -1016,8 +1073,9 @@
 
 
                         <div class="  w-100 ">
-                            <h2 class=" fs-1  text-center mt-3 "> <b> UNA VISION HISTORICA DE LOS GUNA EN EL PERIODO COLONIAL DE LOS SIGLOS XVI- XVII</b> </h2>
-                            
+                            <h2 class=" fs-1  text-center mt-3 "> <b> UNA VISION HISTORICA DE LOS GUNA EN EL PERIODO
+                                    COLONIAL DE LOS SIGLOS XVI- XVII</b> </h2>
+
                             <p><i>Fecha de publicación: 5/1/2023</i></p>
 
                             <div class=" bg-bloquegunayala p-2  card-text-guna ">
@@ -1035,7 +1093,7 @@
                                         intentos de evangelización, pacificación,
                                         reducción y exterminio de la Nación Guna
                                         por parte de los españoles. Puesto que el
-                                        guna se ha caracterizado por ser un pueblo aguerrido, rebelde y que ha luchado 
+                                        guna se ha caracterizado por ser un pueblo aguerrido, rebelde y que ha luchado
                                         por su identidad, autonomía y autodeterminación.<br><br>
 
 
@@ -1156,9 +1214,10 @@
 
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5>
-                                <p> <i>Castillo, B. (1995). Una visión historica de los kunas en el Periodo colonial de los siglos XVI-VII. 
-                                    Gunayala (Panamá): Congreso General de la Cultura guna.</i> </p>
-                                    
+                                <p> <i>Castillo, B. (1995). Una visión historica de los kunas en el Periodo colonial de
+                                        los siglos XVI-VII.
+                                        Gunayala (Panamá): Congreso General de la Cultura guna.</i> </p>
+
                             </div>
 
                         </div>
@@ -1198,7 +1257,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> UNA VISION HISTORICA DE LOS GUNA EN EL PERIODO COLONIAL DE LOS SIGLOS XVI- XVII<br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> UNA VISION HISTORICA DE LOS GUNA EN EL PERIODO COLONIAL
+                                    DE LOS SIGLOS XVI- XVII<br> (VIDEO) </b> </h2>
                         </div>
 
 
@@ -1220,7 +1280,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/JofEFJqb3Yw" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/JofEFJqb3Yw" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -1258,7 +1319,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/JofEFJqb3Yw" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/JofEFJqb3Yw"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 

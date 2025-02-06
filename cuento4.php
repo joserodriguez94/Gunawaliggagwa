@@ -109,7 +109,9 @@
                       Abu na e mimmigan bulagwa ibase bangudsunna. Ai abumar, bela weligwale,
                       aggwadinaganba neg odulo nadab guarmala.
                       Bela yeer iddogedbii, na siirmagdemala. Na gi dodoagwale, na saggan mudsubmudsub
-                      ebuale bangudmala. Ai dasidi gi galudarba naggulegwissi guali. Geb, Abu e mimmi bur bibbigwad nabbi demargigbi imbaba dogde dagsagu, Dasi, bar gwissigwwissi gudsuli; abbarmagde e gwenadgan amied.<br>
+                      ebuale bangudmala. Ai dasidi gi galudarba naggulegwissi guali. Geb, Abu e mimmi bur bibbigwad
+                      nabbi demargigbi imbaba dogde dagsagu, Dasi, bar gwissigwwissi gudsuli; abbarmagde e gwenadgan
+                      amied.<br>
                       Ai Dasi, gwenadgan ibed daglearmoga.<br>
                       Dasi, bela egimaladse godsasunna, ga wegii soge:<br>
                       <div class="espacio font-italic bg-gunayala"> -¡Na bemarga neg nued amisa!
@@ -118,18 +120,26 @@
                         E gwenadgan ga argan ogodde, ga sogmala: <br>
                         -¡Be, anmmar dummadi! ¡Be,
                         anmmar sagla sunnasogedi! </div>
-                      Dasimar bela na ibmar daggarmala: gas dagleali, noga, badde bela e mor oduggwamasmala neg baidse naega. Dasimar, ai Abu neg sue soggarmala.<br>
-                      Ibagan nadbali. Iba dummadi onolesad bergunoniggi. Ai Abu ganar negse arbarsunna. Bela weligwale alledani, Abumar na negse ganar ali. ¡Aaaaaa, aaaaa, aaaaa, alledani guarmala! Innagi ibmar iddosmaladgi binsadani, Abu e mimmigan guali. Deg nadabbiidgi… e massi bur bibbigwad, diggasuli ibmar dagsadgi, binnasuli guali, geb e babse godde:<br>
-                      <div class="espacio font-italic bg-gunayala"> -¡Baba, baba… anmar neggi, dule buggib buggwa! ¡We dulemar, anmar negaggwed morgiid sunnabi yoi buggwa!</div>
+                      Dasimar bela na ibmar daggarmala: gas dagleali, noga, badde bela e mor oduggwamasmala neg baidse
+                      naega. Dasimar, ai Abu neg sue soggarmala.<br>
+                      Ibagan nadbali. Iba dummadi onolesad bergunoniggi. Ai Abu ganar negse arbarsunna. Bela weligwale
+                      alledani, Abumar na negse ganar ali. ¡Aaaaaa, aaaaa, aaaaa, alledani guarmala! Innagi ibmar
+                      iddosmaladgi binsadani, Abu e mimmigan guali. Deg nadabbiidgi… e massi bur bibbigwad, diggasuli
+                      ibmar dagsadgi, binnasuli guali, geb e babse godde:<br>
+                      <div class="espacio font-italic bg-gunayala"> -¡Baba, baba… anmar neggi, dule buggib buggwa! ¡We
+                        dulemar, anmar negaggwed morgiid sunnabi yoi buggwa!</div>
                       Dasi e sordagan bela morginnid yoidbii.<br>
                       Abu e nega, e aggwadinagan, diggasurgus na agwedaniggid, Dasimar e ibe susa dagnoniggi.
                       Abu e yala, e nega, e ibmar sabed, dasimarse gwagnonisunna.<br>
                       <div class="espacio font-italic bg-gunayala"> -Emisgi be an dagmalo! </div>
                       Abu, abga Dasise urwedgi gordabbi: <br>
-                      <div class="espacio font-italic bg-gunayala"> -¡Dasi, bad anmmar nonisoggu! ¡Bela be ibmar be wemalo! ¡Anmar gabsoggar na geggus nonimarsoggu!<br>
-                        -Degsuli, ai Abu, -Dasi, Abu abin soge-, be ibase nae soggargu, bela be yar be anga ugsa nade…, we ibmar bar be gadsuli!
+                      <div class="espacio font-italic bg-gunayala"> -¡Dasi, bad anmmar nonisoggu! ¡Bela be ibmar be
+                        wemalo! ¡Anmar gabsoggar na geggus nonimarsoggu!<br>
+                        -Degsuli, ai Abu, -Dasi, Abu abin soge-, be ibase nae soggargu, bela be yar be anga ugsa nade…,
+                        we ibmar bar be gadsuli!
                         ¡Emisgi, na be neg baid amimodeen!</div>
-                      Na yeer ulusmala, sunna sarsosalesarsosale na meddemala… geb ai Abu, gege neg bar aggolo iddoargu, e mimmigan bulagwa e neg medde daglearsunna.<br>
+                      Na yeer ulusmala, sunna sarsosalesarsosale na meddemala… geb ai Abu, gege neg bar aggolo iddoargu,
+                      e mimmigan bulagwa e neg medde daglearsunna.<br>
                       Ai Abu neg binid amie dagleali, e mimmiganga aggwadin binigan amiali.
 
                       E burwigan, muddigidba boardae, wile iddobugdae demar gaggaganba.<br>
@@ -139,14 +149,17 @@
                       Geb, Abu masmala, Dasi burwigana sarsogedgi sunmaggarmala. Dasi burwigana
                       sasogedgi sunmaggarmala. Dasi mimmigan isdar dagleali. Gi dodoleali.<br>
                       <div class="espacio font-italic bg-gunayala"> -¡Be dagge, addursamalad e goe daniggid!
-                        ¡Das, das, das, das!, -Abu masmala, Dasi e doddogan gadamala, geb sarsodamala, imbagi doggusda-mala.<br>
+                        ¡Das, das, das, das!, -Abu masmala, Dasi e doddogan gadamala, geb sarsodamala, imbagi
+                        doggusda-mala.<br>
                         -¡Baid daniba, dag, dag, dag, dag!</div>
                       Ai Dasimar daggali e burwigan yoggumai. E mimmigan galimbaba naogu, bar nonisurdae.
                       Geb…<br>
                       <div class="espacio font-italic bg-gunayala"> -¡Ablis iddomaloye! -Dasimar godde.<br>
                         -¡Ablis na daggemarye!, -ai Abumar abin imaged.</div>
-                      Geb bila dummad nodsunna. ¡Dag, dag, dag, bum, bum, bum, arrr, arrr, arrr! Ablis yeer ariosa, yeer aumar burgwisa. Dasi nagnoniggi. Dasimar, esa nugar darbogid ebusmala, Abumar sulidi.
-                      Dasimar sigu sunsogmalad ebusmala, Abumar sulidi. Aaga, anmmar daggar dae, Abumar mor yaragwa, wilegediyobi demar gaggaba gudii. Demar gagggaba, gaya maamaa digwar emanana dae.
+                      Geb bila dummad nodsunna. ¡Dag, dag, dag, bum, bum, bum, arrr, arrr, arrr! Ablis yeer ariosa, yeer
+                      aumar burgwisa. Dasi nagnoniggi. Dasimar, esa nugar darbogid ebusmala, Abumar sulidi.
+                      Dasimar sigu sunsogmalad ebusmala, Abumar sulidi. Aaga, anmmar daggar dae, Abumar mor yaragwa,
+                      wilegediyobi demar gaggaba gudii. Demar gagggaba, gaya maamaa digwar emanana dae.
 
 
 
@@ -212,18 +225,21 @@
                       Una mañana, se presentó a su casita, un pez vestido de rojo, con aletas abiertas muy duras.
                       Era Dasi, el pez candil. Este apareció pobre, errante y sin tierra.
                       Temblando ante el gran Abu, dijo:<br>
-                      <div class="espacio font-italic bg-gunayala"> - Amigo Abu, he oído hablar de tu poderío, de tus muchos hijos. Vengo pobre,
+                      <div class="espacio font-italic bg-gunayala"> - Amigo Abu, he oído hablar de tu poderío, de tus
+                        muchos hijos. Vengo pobre,
                         sin patria y sin nada en el estómago.
                         ¿No hay un lugarcito para mí en tu extensa propiedad?</div>
                       El gran Abu bajó los ojos y pensó un poquito. Su corazón le decía: ¡Pobrecito,
                       pobrecito, pobrecito!<br>
-                      <div class="espacio font-italic bg-gunayala"> - ¡Sí, -contestó el gran abu-, como tú vienes solito y sin nada,
+                      <div class="espacio font-italic bg-gunayala"> - ¡Sí, -contestó el gran abu-, como tú vienes solito
+                        y sin nada,
                         te daremos una casita! ¡Y tú nos ayudarás a cuidar esta amplia propiedad!</div>
                       Dasi se puso muy contento. Dasi saltó y respiró fuerte.
                       <div class="espacio font-italic bg-gunayala"> -¡Ahora sí me van aver!, - dijo para sí..</div>
                       Pasaron algunas lunas. Un día, allá lejos, entre las rocas negras
                       hubo una gran ceremonia. Abu, como toda una autoridad, fue invitado
-                      a compartir la fiesta. La familia Abu se preparó para la celebración, y se dispusieron a viajar.<br>
+                      a compartir la fiesta. La familia Abu se preparó para la celebración, y se dispusieron a
+                      viajar.<br>
                       Entonces, Abu llamó a Dasi y le dijo:<br>
                       <div class="espacio font-italic bg-gunayala"> - Amigo mío, nosotros los Abu salimos a una fiesta.
                         Tú te quedas cuidando esta propiedad. Tenla muy limpia y ordenada, y que no entre nadie.<br>
@@ -238,7 +254,8 @@
                       en busca de su familia.<br>
                       El señor Dasi tenía una familia muy extensa.<br>
                       Dasi reunió a su gente y le dijo:<br>
-                      <div class="espacio font-italic bg-gunayala"> - ¡Hermanos míos, les encontré una casa bonita! ¡Ya no seremos más errantes
+                      <div class="espacio font-italic bg-gunayala"> - ¡Hermanos míos, les encontré una casa bonita! ¡Ya
+                        no seremos más errantes
                         sin casa y sin tierra! ¡Descubrí un amplio territorio virgen para todos
                         ustedes los Dasi!<br>
                         - ¡Tú eres un gran pez! ¡Tú eres nuestro grande sagla! - le aplaudieron
@@ -251,7 +268,8 @@
                       a su tierra. ¡Ah, ah, ah, se reían recordando los chistes que habían
                       escuchado en la gran fiesta! Y de pronto... el más pequeño de los Abu
                       gritó haber visto algo extrafio y precisó:<br>
-                      <div class="espacio font-italic bg-gunayala"> -¡Papá, papá... allá, en nuestra casa, hay mucha gente! ¡Todos están de rojo
+                      <div class="espacio font-italic bg-gunayala"> -¡Papá, papá... allá, en nuestra casa, hay mucha
+                        gente! ¡Todos están de rojo
                         como el señor que cuida la casa!</div>
                       El territorio de la familia Abu había sido ocupado. Todos los arrecifes
                       que los Abu, habían protegido y conservado por muchos años, habían pasado
@@ -259,7 +277,8 @@
                       El papa Abu se alzó con su aleta tiesa y afirmó:<br>
                       <div class="espacio font-italic bg-gunayala"> - ¡Ahora, me va aver!</div>
                       Se acercó a Dasi y con voz hueca, reclamó:
-                      <div class="espacio font-italic bg-gunayala"> - ¡Señor Dasi, ya hemos llegado! ¡Saca todos los aperos que has amontonado aquí!
+                      <div class="espacio font-italic bg-gunayala"> - ¡Señor Dasi, ya hemos llegado! ¡Saca todos los
+                        aperos que has amontonado aquí!
                         iVenimos muy cansados de la fiesta y queremos dormir!</div>
                       ¡No, amigo Abu, - respondió Dasi-, antes de irte para la fiesta, tú me regalaste
                       este amplio territorio, y ya no es tuyo! ¡Busca otro sitio para tu gente!<br>
@@ -270,7 +289,8 @@
                       Abu recordaban mucho los arrecifes que habían abandonado, su tierra. Pensaban en
                       su antigua patria y no dormían tranquilos.<br>
                       Y... empezaron a lastimar a los niños Dasi; los roturaban, hasta a veces, los eliminaban.<br>
-                      <div class="espacio font-italic bg-gunayala"> - ¡Aqui va otro, chas, chas, chas!, -le sacaban los ojos a puro aletazos.<br>
+                      <div class="espacio font-italic bg-gunayala"> - ¡Aqui va otro, chas, chas, chas!, -le sacaban los
+                        ojos a puro aletazos.<br>
                         - ¡Mira, ahi viene un niño de los ladrones! ¡Plas, plas, plas, plas!,
                         - decían los Abu y lo mataban.</div>
                       Los Dasi empezaron a notar que su gente menuda desaparecía. Que sus niños
@@ -282,7 +302,8 @@
                         pum, chus, chus, chus, chus! Hubo mucha sangre, muchos heridos y muertos. Y...
                         vencieron los Dasi. Los Dasi utilizaron cuchillos de doble filo que no las tenían los Abu.<br>
                         Los Dasi utilizaron flechas untadas con venenos atroces, que no las tenían las Abu.
-                        Par eso, los Abu vagan muy tristes; abren sus bocas y viven de algas muertas que abundan cerca de las costas.
+                        Par eso, los Abu vagan muy tristes; abren sus bocas y viven de algas muertas que abundan cerca
+                        de las costas.
 
 
                       </div>
@@ -320,10 +341,12 @@
         <center>
           <div class="d-flex flex-wrap mt-2" style="justify-content: center;">
 
-            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./cuento3.php" style="text-decoration:none"> Anterior
+            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./cuento3.php"
+              style="text-decoration:none"> Anterior
             </a>
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de cuentos
+            <a class="  icon-hover actividad  p-2 m-1 " href="./cuentos.php" style="text-decoration:none"> Lista de
+              cuentos
 
               <div class="icon-menu "> </div>
 
@@ -343,7 +366,8 @@
 
 
             <div>
-              <h2 class=" text-center mt-1"> <b>DASI ABU EBO /EL PEZ CANDIL Y EL PEZ LORO <br> (VIDEO EN VERSIÓN ESPAÑOL) </b> </h2>
+              <h2 class=" text-center mt-1"> <b>DASI ABU EBO /EL PEZ CANDIL Y EL PEZ LORO <br> (VIDEO EN VERSIÓN
+                  ESPAÑOL) </b> </h2>
             </div>
 
 
@@ -366,7 +390,8 @@
 
 
                   <div class="ratio ratio-16x9">
-                    <iframe src="https://www.youtube.com/embed/K6BX_GWQX3A" title="YouTube video" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/K6BX_GWQX3A" title="YouTube video"
+                      allowfullscreen></iframe>
                   </div>
 
 
@@ -404,7 +429,8 @@
 
 
 
-              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/K6BX_GWQX3A" style="text-decoration:none"> Ver Video en Youtube
+              <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/K6BX_GWQX3A"
+                style="text-decoration:none"> Ver Video en Youtube
 
 
 

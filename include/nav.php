@@ -5,7 +5,9 @@
             <h1> <b>Guna <br> Waliggagwa </b></h1>
         </a>
 
-        <button class="navbar-toggler  border-white  " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler  border-white  " type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
             <span class="navbar-toggler-icon p-2 "></span>
         </button>
 

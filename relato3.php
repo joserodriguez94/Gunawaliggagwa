@@ -443,7 +443,8 @@
 
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5>
-                                <p> <i>Wagua, A. (2011). En defensa de la vida y su armonía. Elementos de la espiritualidad guna. Textos del babigala.
+                                <p> <i>Wagua, A. (2011). En defensa de la vida y su armonía. Elementos de la
+                                        espiritualidad guna. Textos del babigala.
                                         Gunayala: Proyecto EBI Guna / Fondo Mixto Hispano Panameño.</i> </p>
 
                             </div>
@@ -467,10 +468,12 @@
                 <center>
                     <div class="d-flex flex-wrap mt-2" style="justify-content: center;">
 
-                        <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./relato2.php" style="text-decoration:none"> Anterior
+                        <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./relato2.php"
+                            style="text-decoration:none"> Anterior
                         </a>
 
-                        <a class="  icon-hover actividad  p-2 m-1 " href="./relatos.php" style="text-decoration:none"> Lista de relatos
+                        <a class="  icon-hover actividad  p-2 m-1 " href="./relatos.php" style="text-decoration:none">
+                            Lista de relatos
 
                             <div class="icon-menu "> </div>
 
@@ -498,7 +501,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> BILER Y BURSOB <br> ( VIDEO EN VERSIÓN ESPAÑOL ) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> BILER Y BURSOB <br> ( VIDEO EN VERSIÓN ESPAÑOL ) </b>
+                            </h2>
                         </div>
 
 
@@ -520,7 +524,9 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/1aGYYIRV5Ng?list=PL1fDgMbAVFmgwTMxgptP6FYdLYlk34V23" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe
+                                            src="https://www.youtube.com/embed/1aGYYIRV5Ng?list=PL1fDgMbAVFmgwTMxgptP6FYdLYlk34V23"
+                                            title="YouTube video" allowfullscreen></iframe>
                                     </div>
 
 
@@ -557,7 +563,9 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/1aGYYIRV5Ng?list=PL1fDgMbAVFmgwTMxgptP6FYdLYlk34V23" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 "
+                                href="https://www.youtube.com/embed/1aGYYIRV5Ng?list=PL1fDgMbAVFmgwTMxgptP6FYdLYlk34V23"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 

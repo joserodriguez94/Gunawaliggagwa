@@ -137,7 +137,10 @@
 
 
 
-                <iframe height="300" class="container-fluid" src="https://www.youtube.com/embed/XTvXW_b2jZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe height="300" class="container-fluid" src="https://www.youtube.com/embed/XTvXW_b2jZU"
+                  title="YouTube video player" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
 
 
 
@@ -175,7 +178,8 @@
 
 
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none"> Lista de actividades
+            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none">
+              Lista de actividades
 
               <div class="icon-menu "> </div>
 
@@ -242,7 +246,10 @@
 
 
 
-                <iframe height="300" class="container-fluid" src="https://www.youtube.com/embed/yfBhIk0Loig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe height="300" class="container-fluid" src="https://www.youtube.com/embed/yfBhIk0Loig"
+                  title="YouTube video player" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
 
 
 
@@ -280,7 +287,8 @@
 
 
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none"> Lista de actividades
+            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none">
+              Lista de actividades
 
               <div class="icon-menu "> </div>
 
@@ -346,7 +354,10 @@
 
 
 
-                <iframe height="300" class="container-fluid" src="https://www.youtube.com/embed/RXZwowzDQfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe height="300" class="container-fluid" src="https://www.youtube.com/embed/RXZwowzDQfM"
+                  title="YouTube video player" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
 
 
 
@@ -384,7 +395,8 @@
 
 
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none"> Lista de actividades
+            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none">
+              Lista de actividades
 
               <div class="icon-menu "> </div>
 

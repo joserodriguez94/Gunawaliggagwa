@@ -76,7 +76,8 @@
                                         <h3>1-OLOGWADULE </h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./relato1.php" style="text-decoration:none"> Leer relato <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./relato1.php"
+                                             style="text-decoration:none"> Leer relato <br>
                                         </a>
                                         <br>
                                    </div>
@@ -93,7 +94,8 @@
                                         <h3>2-WAGO </h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./relato2.php" style="text-decoration:none"> Leer relato <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./relato2.php"
+                                             style="text-decoration:none"> Leer relato <br>
                                         </a>
                                         <br>
                                    </div>
@@ -108,7 +110,8 @@
                                         <h3>3-BILER Y BURSOB</h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./relato3.php" style="text-decoration:none"> Leer relato <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./relato3.php"
+                                             style="text-decoration:none"> Leer relato <br>
                                         </a>
                                         <br>
                                    </div>
@@ -123,7 +126,8 @@
                                         <h3>4-MAGO Y OLOGWADULE </h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./relato4.php" style="text-decoration:none"> Leer relato <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./relato4.php"
+                                             style="text-decoration:none"> Leer relato <br>
                                         </a>
                                         <br>
                                    </div>

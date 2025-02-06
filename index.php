@@ -117,7 +117,8 @@
                                     orígenes como pueblo y comarcas, entre otras
                                     informaciones no menos importantes. </p>
                                 <br>
-                                <a class=" icon-hover actividad  p-3 " href="./puebloguna.php" style="text-decoration:none"> Ir a la sección <br>
+                                <a class=" icon-hover actividad  p-3 " href="./puebloguna.php"
+                                    style="text-decoration:none"> Ir a la sección <br>
                                 </a>
                                 <br>
                             </div>
@@ -132,7 +133,8 @@
                                 <h5 class="card-title "> Comarca Gunayala</h5>
                                 <p class="card-text">
 
-                                    Esta sección mostrará información en general de la Comarca Gunayala como por ejemplo: su historia, origen, entre otras informaciones no menos importantes.
+                                    Esta sección mostrará información en general de la Comarca Gunayala como por
+                                    ejemplo: su historia, origen, entre otras informaciones no menos importantes.
 
 
 
@@ -140,7 +142,8 @@
                                 <br>
 
 
-                                <a class=" icon-hover actividad  p-3 " href="./gunayala.php" style="text-decoration:none"> Ir a la sección.
+                                <a class=" icon-hover actividad  p-3 " href="./gunayala.php"
+                                    style="text-decoration:none"> Ir a la sección.
 
 
 
@@ -164,7 +167,8 @@
                                     Saglagan y Argarmar en generación en generación adquirida del libro <i>"En defensa
                                         de la vida y su armonía"</i> recopilado por <i>Aiban Wagua</i>. </p>
                                 <br>
-                                <a class=" icon-hover actividad  p-3 " href="./relatos.php" style="text-decoration:none"> Ir a la sección <br>
+                                <a class=" icon-hover actividad  p-3 " href="./relatos.php"
+                                    style="text-decoration:none"> Ir a la sección <br>
 
 
 
@@ -183,7 +187,8 @@
                                     los cuentos contados por los abuelos guna Adquirida del libro <i>"Así se habla en
                                         mi tierra" </i> recopilado por <i>Salvatore Carbone </i> </p>
                                 <br>
-                                <a class=" icon-hover actividad  p-3 " href="./cuentos.php" style="text-decoration:none"> Ir a la sección <br>
+                                <a class=" icon-hover actividad  p-3 " href="./cuentos.php"
+                                    style="text-decoration:none"> Ir a la sección <br>
 
 
 
@@ -204,7 +209,8 @@
                                     usuario podrá adquirir conocimientos sobre el Pueblo Guna de una manera
                                     dinámica e intuitivamente.</p>
                                 <br>
-                                <a class=" icon-hover actividad  p-3 " href="./actividadeseducativas.php" style="text-decoration:none"> Ir a la sección
+                                <a class=" icon-hover actividad  p-3 " href="./actividadeseducativas.php"
+                                    style="text-decoration:none"> Ir a la sección
 
 
 
@@ -228,7 +234,8 @@
                                     visión, entre otros aspectos no menos importantes.</p>
                                 <br>
 
-                                <a class=" icon-hover actividad  p-3 " href="./sobrenosotros.php" style="text-decoration:none">
+                                <a class=" icon-hover actividad  p-3 " href="./sobrenosotros.php"
+                                    style="text-decoration:none">
                                     Ir a la sección
                                 </a>
 
@@ -254,7 +261,8 @@
                                 </p>
                                 <br>
 
-                                <a class=" icon-hover actividad  p-3 " href="./contacto.php" style="text-decoration:none"> Ir a la sección
+                                <a class=" icon-hover actividad  p-3 " href="./contacto.php"
+                                    style="text-decoration:none"> Ir a la sección
 
 
 

@@ -66,7 +66,8 @@
                                         <h3>1-IGAROBANDUR US EBO 1 | EL JAGUAR Y EL ÑEQUE 1</h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./cuento1.php" style="text-decoration:none"> Leer cuento <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./cuento1.php"
+                                             style="text-decoration:none"> Leer cuento <br>
                                         </a>
                                         <br>
                                    </div>
@@ -81,7 +82,8 @@
                                         <h3>2-IGAROBANDUR US EBO 2 | EL JAGUAR Y EL ÑEQUE 2</h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./cuento2.php" style="text-decoration:none"> Leer cuento <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./cuento2.php"
+                                             style="text-decoration:none"> Leer cuento <br>
                                         </a>
                                         <br>
                                    </div>
@@ -96,7 +98,8 @@
                                         <h3>3-AI DABGALA | EL AMIGO GARZA</h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./cuento3.php" style="text-decoration:none"> Leer cuento <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./cuento3.php"
+                                             style="text-decoration:none"> Leer cuento <br>
                                         </a>
                                         <br>
                                    </div>
@@ -111,7 +114,8 @@
                                         <h3>4-DASI ABU EBO | EL PEZ CANDIL Y EL PEZ LORO</h3>
                                         <p><i>Fecha de publicación: 5/1/2023</i></p>
                                         <br>
-                                        <a class=" icon-hover actividad  p-3 " href="./cuento4.php" style="text-decoration:none"> Leer cuento <br>
+                                        <a class=" icon-hover actividad  p-3 " href="./cuento4.php"
+                                             style="text-decoration:none"> Leer cuento <br>
                                         </a>
                                         <br>
                                    </div>

@@ -107,7 +107,9 @@
               </div>
               <center>
                 <div class="mt-5">
-                  <a class=" icon-hover actividad icon-right-hand  mb-2  p-3 " href="https://es.educaplay.com/juego/9257523-palabras_de_uso_cotidiano.html" target="_blank" style="text-decoration:none"> <b>Realizar actividad</b>
+                  <a class=" icon-hover actividad icon-right-hand  mb-2  p-3 "
+                    href="https://es.educaplay.com/juego/9257523-palabras_de_uso_cotidiano.html" target="_blank"
+                    style="text-decoration:none"> <b>Realizar actividad</b>
                     <div class="icon-left-hand d-inline-flex"> </div>
 
                   </a>
@@ -140,11 +142,13 @@
         <center>
           <div class="d-flex flex-wrap mt-2" style="justify-content: center;">
 
-            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./actividad3.php" style="text-decoration:none"> Anterior
+            <a class="  icon-hover actividad icon-left-big m-1   p-2 " href="./actividad3.php"
+              style="text-decoration:none"> Anterior
             </a>
 
 
-            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none"> Lista de actividades
+            <a class="  icon-hover actividad  p-2 m-1 " href="./actividadeseducativas.php" style="text-decoration:none">
+              Lista de actividades
 
               <div class="icon-menu "> </div>
 

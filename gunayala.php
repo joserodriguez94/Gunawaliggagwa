@@ -59,7 +59,8 @@
 
 
                         <div class="  w-100 ">
-                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - I Parte </b> </h2>
+                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - I
+                                    Parte </b> </h2>
                             <p><i>Fecha de publicación: 5/1/2023</i></p>
 
                             <div class=" bg-bloquegunayala p-2  card-text-guna ">
@@ -105,8 +106,10 @@
 
 
 
-                                        La comarca consta de una autonomía y autogobierno en Panamá y se constituye de 51 comunidades,
-                                        de las cuales 49 son de población netamente gunadule y dos comunidades no indígenas
+                                        La comarca consta de una autonomía y autogobierno en Panamá y se constituye de
+                                        51 comunidades,
+                                        de las cuales 49 son de población netamente gunadule y dos comunidades no
+                                        indígenas
                                         que en su mayoría son afrodescendientes y
                                         forman parte del Corregimiento de Puerto Obaldía localizadas cerca de
                                         la frontera de Panamá y Colombia. Según los Congresos Generales Guna
@@ -303,7 +306,8 @@
                                         De las 51 comunidades que forma la Comarca, 38 están ubicadas en islas y
                                         13 están localizadas en la parte continental, en su mayoría en las
                                         áreas costeras. Solo dos comunidades, Gangandi y Mandiyala,
-                                        están alejadas de la costa a una y a dos horas aproximadamente de caminata. <br><br>
+                                        están alejadas de la costa a una y a dos horas aproximadamente de caminata.
+                                        <br><br>
 
 
 
@@ -323,7 +327,8 @@
 
 
                                         La Comarca Gunayala, se extiende por el Norte, el Mar Caribe,
-                                        por el Este, la Republica de Colombia, por el Oeste, el Distrito de Santa Isabel,
+                                        por el Este, la Republica de Colombia, por el Oeste, el Distrito de Santa
+                                        Isabel,
                                         Provincia de Colón y por el Sur,
                                         el Distrito de Chepo de la Provincia de Panamá y
                                         el Distrito de Pinogana de la Provincia de Darién (ver figura 1.1).
@@ -336,14 +341,17 @@
 
                                         <div class="bg-gunayala border-dark  " style="max-width: 25rem;">
 
-                                            <div class="card-header text-center"> Figura 1.1. Límites de la Comarca Gunayala
+                                            <div class="card-header text-center"> Figura 1.1. Límites de la Comarca
+                                                Gunayala
                                             </div>
 
                                             <img src="img/limites.jpg" class=" imggunayala img-fluid " alt="...">
 
 
                                             <div class="centreadodentroderegiones mt-3">
-                                                <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center " href="https://earth.google.com/earth/d/1Q6zFJaXtT1AbsYUD6wlb2fqS_EV13GW9?usp=sharing" target="_blank" style="text-decoration:none "> Ver mapa en google
+                                                <a class=" icon-hover actividad  p-2 iconodetoquedegunayala text-center "
+                                                    href="https://earth.google.com/earth/d/1Q6zFJaXtT1AbsYUD6wlb2fqS_EV13GW9?usp=sharing"
+                                                    target="_blank" style="text-decoration:none "> Ver mapa en google
                                                     earth
                                                 </a>
                                             </div>
@@ -369,16 +377,23 @@
 
                                         <div class="bg-gunayala border-dark  " style="max-width: 25rem;">
 
-                                            <div class="card-header text-center"> Figura 1.2. Porcentajes totales de dule ubicados entre Panamá (2010) y Colombia (2018)
+                                            <div class="card-header text-center"> Figura 1.2. Porcentajes totales de
+                                                dule ubicados entre Panamá (2010) y Colombia (2018)
                                             </div>
 
                                             <img src="img/grafico1.1.png" class=" imggunayala img-fluid " alt="...">
 
 
-                                            <div class="card-header"> Fuente: Grafico elaborado por autor, el cual se analizó las siguientes
-                                                investigaciones: Resultados e diagnóstico del censo de la población indígena y vivienda 2010 en Panamá, hecha por el Instituto Nacional de Estadística y Censo (INEC)
-                                                de la contraloría de la República de Panamá , con apoyo del Fondo de Población de las Naciones Unida (FPNU);
-                                                Resultados del censo nacional de la población indígena y vivienda 2018 en Colombia, hecha por el Departamento Administrativo Nacional de Estadística (DANE).
+                                            <div class="card-header"> Fuente: Grafico elaborado por autor, el cual se
+                                                analizó las siguientes
+                                                investigaciones: Resultados e diagnóstico del censo de la población
+                                                indígena y vivienda 2010 en Panamá, hecha por el Instituto Nacional de
+                                                Estadística y Censo (INEC)
+                                                de la contraloría de la República de Panamá , con apoyo del Fondo de
+                                                Población de las Naciones Unida (FPNU);
+                                                Resultados del censo nacional de la población indígena y vivienda 2018
+                                                en Colombia, hecha por el Departamento Administrativo Nacional de
+                                                Estadística (DANE).
                                             </div>
 
 
@@ -392,15 +407,20 @@
 
                                         <div class="bg-gunayala border-dark  " style="max-width: 25rem;">
 
-                                            <div class="card-header text-center"> Figura 1.3. Porcentaje totales de dule urbanos y rurales de la Comarca Gunayala
+                                            <div class="card-header text-center"> Figura 1.3. Porcentaje totales de dule
+                                                urbanos y rurales de la Comarca Gunayala
                                             </div>
 
                                             <img src="img/grafico1.2.png" class=" imggunayala img-fluid " alt="...">
 
 
-                                            <div class="card-header"> Fuente: Grafico elaborado por autor, el cual se analizó las siguientes
-                                                investigaciones: Resultados e diagnóstico del censo de la población indígena y vivienda 2010 en Panamá, hecha por el Instituto Nacional de Estadística y Censo (INEC)
-                                                de la contraloría de la República de Panamá , con apoyo del Fondo de Población de las Naciones Unida (FPNU).
+                                            <div class="card-header"> Fuente: Grafico elaborado por autor, el cual se
+                                                analizó las siguientes
+                                                investigaciones: Resultados e diagnóstico del censo de la población
+                                                indígena y vivienda 2010 en Panamá, hecha por el Instituto Nacional de
+                                                Estadística y Censo (INEC)
+                                                de la contraloría de la República de Panamá , con apoyo del Fondo de
+                                                Población de las Naciones Unida (FPNU).
                                             </div>
 
 
@@ -427,9 +447,12 @@
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5><br>
 
-                                <p> <i>PEMASKY. (Octubre de 1995). Biosfera de la Comarca Gunayala. Nusagandi, Gunayala, Panamá.</i><br>
-                                <p> <i>Reuter, O., & Wagua, A. (2006). Diccionario escolar. gunagaya-español. Gunayala, Panamá.</i><br>
-                                <p> <i>Gunayala. (28 de Septiembre de 2013). Ley Fundamental de Gunayala. Mirya Ubgigandub, Gunayala.</i><br>
+                                <p> <i>PEMASKY. (Octubre de 1995). Biosfera de la Comarca Gunayala. Nusagandi, Gunayala,
+                                        Panamá.</i><br>
+                                <p> <i>Reuter, O., & Wagua, A. (2006). Diccionario escolar. gunagaya-español. Gunayala,
+                                        Panamá.</i><br>
+                                <p> <i>Gunayala. (28 de Septiembre de 2013). Ley Fundamental de Gunayala. Mirya
+                                        Ubgigandub, Gunayala.</i><br>
                                 <p> <i>Gunayala. (2023). Gunayala en resumen. Gunayala, Panamá.</i><br>
 
 
@@ -463,7 +486,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - I PARTE <br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - I PARTE <br>
+                                    (VIDEO) </b> </h2>
                         </div>
 
 
@@ -485,7 +509,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/FsfpRXuRv-s" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/FsfpRXuRv-s" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -522,7 +547,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/FsfpRXuRv-s" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/FsfpRXuRv-s"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
@@ -574,7 +600,8 @@
 
 
                         <div class="  w-100 ">
-                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - II Parte </b> </h2>
+                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - II
+                                    Parte </b> </h2>
                             <p><i>Fecha de publicación: 5/1/2023</i></p>
                             <div class=" bg-bloquegunayala p-2  card-text-guna ">
                                 <div class=" p-2 ">
@@ -711,10 +738,13 @@
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5><br>
 
-                                <p> <i>Castillo, B. (2021). Neggsed (Autonomía): avances y desafíos del autogobierno del pueblo gunadule de Panamá.
+                                <p> <i>Castillo, B. (2021). Neggsed (Autonomía): avances y desafíos del autogobierno del
+                                        pueblo gunadule de Panamá.
                                         Autonomías y autogobierno en la América diversa.</i> <br>
-                                <p> <i>Gunayala. (28 de Septiembre de 2013). Ley Fundamental de Gunayala. Mirya Ubgigandub, Gunayala.</i><br></p>
-                                <p> <i>Castillo, B. (1995). Una visión historica de los kunas en el Periodo colonial de los siglos XVI-VII.
+                                <p> <i>Gunayala. (28 de Septiembre de 2013). Ley Fundamental de Gunayala. Mirya
+                                        Ubgigandub, Gunayala.</i><br></p>
+                                <p> <i>Castillo, B. (1995). Una visión historica de los kunas en el Periodo colonial de
+                                        los siglos XVI-VII.
                                         Gunayala (Panamá): Congreso General de la Cultura guna.</i> </p>
 
                             </div>
@@ -751,7 +781,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - II PARTE <br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - II PARTE <br>
+                                    (VIDEO) </b> </h2>
                         </div>
 
 
@@ -773,7 +804,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/hj0EtkmU6qo" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/hj0EtkmU6qo" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -810,7 +842,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/hj0EtkmU6qo" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/hj0EtkmU6qo"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
@@ -863,7 +896,8 @@
 
 
                         <div class="  w-100 ">
-                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - III Parte </b> </h2>
+                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - III
+                                    Parte </b> </h2>
                             <p><i>Fecha de publicación: 5/1/2023</i></p>
                             <div class=" bg-bloquegunayala p-2  card-text-guna ">
                                 <div class=" p-2 ">
@@ -871,7 +905,8 @@
 
                                         La Comarca Gunayala, creada por la Ley Segunda del 16 de septiembre de 1938,
                                         pero nombrada en aquel momento como San Blas, luego declarada
-                                        Reserva por la Ley 20 del 31 de enero de 1957, después denominada Comarca Kuna Yala
+                                        Reserva por la Ley 20 del 31 de enero de 1957, después denominada Comarca Kuna
+                                        Yala
                                         en la Ley 99 del 23 de diciembre de 1998,
                                         y designada como Comarca Gunayala en el año 2010.
                                         Sin embargo, este último nombre no es ley nacional,
@@ -938,7 +973,8 @@
                                     <ul>
 
                                         <li class=" mb-3">
-                                            <p> <em> Onmaggeddummad Namaggaled (Congreso General de la Cultura Guna) </em> </p>
+                                            <p> <em> Onmaggeddummad Namaggaled (Congreso General de la Cultura Guna)
+                                                </em> </p>
                                         </li>
 
                                         Autoridad máxima de Gunayala de carácter cultural y de espiritualidad.
@@ -987,7 +1023,8 @@
 
 
                                         <li class=" mt-4 mb-3">
-                                            <p> <em>Sagladummad / Sagladummagan (Cacique General / Caciques Generales)</em></p>
+                                            <p> <em>Sagladummad / Sagladummagan (Cacique General / Caciques
+                                                    Generales)</em></p>
                                         </li>
 
                                         Persona o personas que representan legalmente a las autoridades máximas de
@@ -1012,7 +1049,8 @@
                                             <p> <em>Delegado / Delegados </em></p>
                                         </li>
 
-                                        Persona o personas elegidas en el pleno de cada congreso local, y que representan a su comunidad
+                                        Persona o personas elegidas en el pleno de cada congreso local, y que
+                                        representan a su comunidad
                                         en las deliberaciones de las sesiones de los Onmaggeddummagan.
 
 
@@ -1064,7 +1102,8 @@
 
 
 
-                                        Personaje o personajes que diagnostican enfermedades, predice e interpreta acontecimientos.
+                                        Personaje o personajes que diagnostican enfermedades, predice e interpreta
+                                        acontecimientos.
 
 
 
@@ -1092,8 +1131,10 @@
                                 <h5><b>Bibliografia</b> </h5><br>
 
 
-                                <p> <i>Gunayala. (28 de Septiembre de 2013). Ley Fundamental de Gunayala. Mirya Ubgigandub, Gunayala.</i><br></p>
-                                <p> <i>López, A. (8 de Noviembre de 2022). Escribiendo el idioma guna… a través de la historia. Gunayala.</i> </p>
+                                <p> <i>Gunayala. (28 de Septiembre de 2013). Ley Fundamental de Gunayala. Mirya
+                                        Ubgigandub, Gunayala.</i><br></p>
+                                <p> <i>López, A. (8 de Noviembre de 2022). Escribiendo el idioma guna… a través de la
+                                        historia. Gunayala.</i> </p>
 
 
                             </div>
@@ -1131,7 +1172,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - III PARTE <br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - III PARTE
+                                    <br> (VIDEO) </b> </h2>
                         </div>
 
 
@@ -1153,7 +1195,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/fWOzifz7HyY" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/fWOzifz7HyY" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -1190,7 +1233,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/fWOzifz7HyY" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/fWOzifz7HyY"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
@@ -1243,7 +1287,8 @@
 
 
                         <div class="  w-100 ">
-                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - IV PARTE</b> </h2>
+                            <h2 class=" fs-1  text-center mt-3 "> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - IV
+                                    PARTE</b> </h2>
                             <p><i>Fecha de publicación: 5/1/2023</i></p>
                             <div class=" bg-bloquegunayala p-2  card-text-guna ">
                                 <div class=" p-2 ">
@@ -1253,7 +1298,8 @@
                                         </b>
 
                                     <p> En general, la flora de la región es poco conocida y
-                                        probablemente cuenta con muchas especies aún no "descubiertas" por la ciencia.<br> <br>
+                                        probablemente cuenta con muchas especies aún no "descubiertas" por la
+                                        ciencia.<br> <br>
                                         Entre los recursos se tiene:</p>
 
 
@@ -1264,27 +1310,36 @@
                                         </li>
 
                                         Ocupan suelos inundados con agua salina cerca de las costas.
-                                        Las tres asociaciones más extensas son los manglares (Avicennia, Rhizophora, Laguncularia),
-                                        los bosques del alcornoque (Mora oleifera); y los bosques de Cativo (Prioria copaifera).
+                                        Las tres asociaciones más extensas son los manglares (Avicennia, Rhizophora,
+                                        Laguncularia),
+                                        los bosques del alcornoque (Mora oleifera); y los bosques de Cativo (Prioria
+                                        copaifera).
 
 
 
                                         <li class=" mt-4 mb-3">
                                             <p> <em> Bosques perennifolios tropicales </em></p>
                                         </li>
-                                        Se encuentran en sectores de menos de 600 m de altura, con una precipitación media anual entre 2000 y 4000 mm.
-                                        La mayoría de la Comarca Guna está compuesta por estos bosques. La selva se caracteriza por la
-                                        presencia de palmeras como la guágara (Sabal sp.) y chunga (Astrocaryum standleyanum).
-                                        También, están presentes otros géneros, como: Bombacopsis, Anacardium, Hura, Cedrela y otros.
-                                        Su dosel alcanza hasta 30 m y 55 m, con árboles gruesos que llegan a ser de 3 m de diámetro.
+                                        Se encuentran en sectores de menos de 600 m de altura, con una precipitación
+                                        media anual entre 2000 y 4000 mm.
+                                        La mayoría de la Comarca Guna está compuesta por estos bosques. La selva se
+                                        caracteriza por la
+                                        presencia de palmeras como la guágara (Sabal sp.) y chunga (Astrocaryum
+                                        standleyanum).
+                                        También, están presentes otros géneros, como: Bombacopsis, Anacardium, Hura,
+                                        Cedrela y otros.
+                                        Su dosel alcanza hasta 30 m y 55 m, con árboles gruesos que llegan a ser de 3 m
+                                        de diámetro.
 
 
                                         <li class=" mt-4 mb-3">
                                             <p><em>Bosques subperennifolios tropicales </em></p>
                                         </li>
 
-                                        Esta vegetación cubre aproximadamente el 85% de la región en los terrenos de menos de 600 m de altura.
-                                        Es una selva con especies arbóreas muy heterogéneas, con una dominación de cuipo (Cavanillesia platanifolia).
+                                        Esta vegetación cubre aproximadamente el 85% de la región en los terrenos de
+                                        menos de 600 m de altura.
+                                        Es una selva con especies arbóreas muy heterogéneas, con una dominación de cuipo
+                                        (Cavanillesia platanifolia).
                                         Otras especies de suma importancia son: Cedrela, Bombacopsis y Ceiba.
                                         Su altura promedio es de 35 m hasta 50-55 m.
 
@@ -1292,10 +1347,12 @@
                                             <p> <em> Bosques perennifolios subtropicales </em></p>
                                         </li>
 
-                                        Se encuentran a 700 y 1500 m de altura. Las montañas en las cabeceras del río Chagres y los puntos altos
+                                        Se encuentran a 700 y 1500 m de altura. Las montañas en las cabeceras del río
+                                        Chagres y los puntos altos
                                         de la cordillera de San Blas (Gunayala),
                                         los altos del Darién y la Serranía de Maje contienen estos bosques.
-                                        Los géneros comunes son las palmas Iriartea y Socratea y otros como Poulsenia, Lecythis, Achras, Terminalia y Quararibea.
+                                        Los géneros comunes son las palmas Iriartea y Socratea y otros como Poulsenia,
+                                        Lecythis, Achras, Terminalia y Quararibea.
                                         Su altura promedio es de 25 m.
 
 
@@ -1303,7 +1360,8 @@
                                             <p> <em>Bosques perennifolios de tierras altas</em></p>
                                         </li>
 
-                                        Se encuentran a 1500 m y más de altura en la serranía de Maje y los altos del Darién.
+                                        Se encuentran a 1500 m y más de altura en la serranía de Maje y los altos del
+                                        Darién.
                                         Están presentes los géneros: Quercus, Alnus y Podocarpus.
 
 
@@ -1327,16 +1385,21 @@
 
                                         Debido a su posición como puente biogeográfico entre dos continentes, Panamá.
                                         Particularmente, Gunayala tiene una fauna muy diversa de animales silvestre,
-                                        por eso en Gunayala encontramos parte animales de origen Sudamericano como: oso perezoso,
+                                        por eso en Gunayala encontramos parte animales de origen Sudamericano como: oso
+                                        perezoso,
                                         oso hormiguero, armadillo. De origen norteño: Mapache, Tapir, venado. <br> <br>
 
-                                        Además, es importante destacar que en las selvas de Gunayala existen más especies de aves, mariposas y árboles que en muchos países de Europa.
-                                        En la región se ha reportado la existencia de 58 especies de mamíferos sin incluir especies marinas ni voladoras.
+                                        Además, es importante destacar que en las selvas de Gunayala existen más
+                                        especies de aves, mariposas y árboles que en muchos países de Europa.
+                                        En la región se ha reportado la existencia de 58 especies de mamíferos sin
+                                        incluir especies marinas ni voladoras.
 
                                         Igualmente, 440 especies de avifauna pueblan la región.
 
-                                        También viven aves migratorias, tales como Actitis macularia, Wilsonia canadensis, Hirundo rustica.
-                                        En 1984, se reportaron 30 especies identificadas de reptiles y anfibios para el área.
+                                        También viven aves migratorias, tales como Actitis macularia, Wilsonia
+                                        canadensis, Hirundo rustica.
+                                        En 1984, se reportaron 30 especies identificadas de reptiles y anfibios para el
+                                        área.
 
 
 
@@ -1351,19 +1414,27 @@
                                             <h4>Clima</h4>
                                         </b>
 
-                                        A través de toda la región, la precipitación varía aproximadamente entre 1500 y 2000 mm en los valles de Bayano y Chucunaque,
-                                        con una estación seca prolongada, lo que es característico de un clima tropical de sabana. <br> <br>
+                                        A través de toda la región, la precipitación varía aproximadamente entre 1500 y
+                                        2000 mm en los valles de Bayano y Chucunaque,
+                                        con una estación seca prolongada, lo que es característico de un clima tropical
+                                        de sabana. <br> <br>
 
-                                        En los cerros más altos de la región, varía entre 5500 y 6000 mm, característico de un clima tropical muy húmedo y un clima templado húmedo de altura. <br> <br>
+                                        En los cerros más altos de la región, varía entre 5500 y 6000 mm, característico
+                                        de un clima tropical muy húmedo y un clima templado húmedo de altura. <br> <br>
 
                                         En la región, el año está dividido en dos estaciones bien marcadas.
-                                        Existe una estación seca (verano) que va de enero a abril y una estación lluviosa (invierno), de mayo a diciembre.
+                                        Existe una estación seca (verano) que va de enero a abril y una estación
+                                        lluviosa (invierno), de mayo a diciembre.
                                         Debido a la posición geográfica del istmo en relación con el Caribe,
-                                        por lo general los vientos soplan con mayor intensidad en el sector Atlántico que en el Pacífico. <br> <br>
+                                        por lo general los vientos soplan con mayor intensidad en el sector Atlántico
+                                        que en el Pacífico. <br> <br>
 
-                                        Las temperaturas promedio de la región varían entre 26 y 27 grados centígrados en las partes bajas del
-                                        archipiélago de Gunayala y los valles de Bayano y Chucunaque y alrededor de los 20 grados
-                                        centígrados en las partes altas de la cordillera de Gunayala, altos del Darién y Serranía de Maje.
+                                        Las temperaturas promedio de la región varían entre 26 y 27 grados centígrados
+                                        en las partes bajas del
+                                        archipiélago de Gunayala y los valles de Bayano y Chucunaque y alrededor de los
+                                        20 grados
+                                        centígrados en las partes altas de la cordillera de Gunayala, altos del Darién y
+                                        Serranía de Maje.
 
 
 
@@ -1382,21 +1453,27 @@
                                             <h4>Hidrografía</h4>
                                         </b>
 
-                                        Las cuencas de la región son muy importantes y las principales son las del río Chagres (que desemboca en el Atlántico)
+                                        Las cuencas de la región son muy importantes y las principales son las del río
+                                        Chagres (que desemboca en el Atlántico)
                                         y la del Canal de Panamá.
                                         La subcuenca del Lago Alajuela, que colinda con el extremo occidental de
                                         la Comarca Guna en un sector muy montañoso,
-                                        con un embalse de 780 Km2, menos del 25 % de la superficie de la cuenca del Canal (3260 Km2),
+                                        con un embalse de 780 Km2, menos del 25 % de la superficie de la cuenca del
+                                        Canal (3260 Km2),
                                         provee hasta el 40% de su agua para su funcionamiento.
                                         <br><br>
 
-                                        El agua del lago se extrae para consumo doméstico e industrial para toda la región metropolitana de Panamá y Colón.
-                                        Otra cuenca grande e importante económicamente es la del río Bayano o Madungandi.
+                                        El agua del lago se extrae para consumo doméstico e industrial para toda la
+                                        región metropolitana de Panamá y Colón.
+                                        Otra cuenca grande e importante económicamente es la del río Bayano o
+                                        Madungandi.
                                         Esta tiene una superficie de 4225 Km2 y drena al Pacífico.<br><br>
 
 
-                                        En los años 70, el curso medio de la cuenca fue inundado para crear un embalse de 350 Km2 para la generación de 120 megavatios de energía hidroeléctrica.
-                                        Ahí se perdieron 35,000 ha. de selva y con ello toda la fauna y flora silvestres, y las tierras tradicionales de los Guna de Madungandi,
+                                        En los años 70, el curso medio de la cuenca fue inundado para crear un embalse
+                                        de 350 Km2 para la generación de 120 megavatios de energía hidroeléctrica.
+                                        Ahí se perdieron 35,000 ha. de selva y con ello toda la fauna y flora
+                                        silvestres, y las tierras tradicionales de los Guna de Madungandi,
                                         cuya economía se basaba en los suelos aluviales fértiles.<br><br>
 
 
@@ -1407,20 +1484,29 @@
 
 
                                         En la Comarca Gunayala existen muchos ríos que vierten al Atlántico,
-                                        como son: Armila, Yansibdiwar (Carreto), Navagandi, Uggubseni, Digandiggid, Paloma, Gardi, Nergala, Gangandi y Mandinga, entre otros.
-                                        Tienen cuencas de menos de 25 Km. de largo y cuencas hidrográficas relativamente pequeñas
-                                        (menos de 250 Km2), con ciertas excepciones en el sector occidental (Gardi Grande, Gangandi y Mandinga).<br><br>
+                                        como son: Armila, Yansibdiwar (Carreto), Navagandi, Uggubseni, Digandiggid,
+                                        Paloma, Gardi, Nergala, Gangandi y Mandinga, entre otros.
+                                        Tienen cuencas de menos de 25 Km. de largo y cuencas hidrográficas relativamente
+                                        pequeñas
+                                        (menos de 250 Km2), con ciertas excepciones en el sector occidental (Gardi
+                                        Grande, Gangandi y Mandinga).<br><br>
 
 
-                                        De la costa atlántica no hay mucha información porque se han realizado muy pocos estudios en sus aguas marinas.
-                                        Sin embargo, podemos decir que, la costa, desde la bahía de Limón, en Colón, hasta Cabo Tiburón en el límite con Colombia,
-                                        está dominada por la cordillera de Gunayala y tiene una plataforma continental angosta con una amplia gama de ambientes marinos
-                                        relativamente poco alterados: mar abierto, arrecifes de coral, islas, manglares, playas arenosas, y playas rocosas que contribuyen
+                                        De la costa atlántica no hay mucha información porque se han realizado muy pocos
+                                        estudios en sus aguas marinas.
+                                        Sin embargo, podemos decir que, la costa, desde la bahía de Limón, en Colón,
+                                        hasta Cabo Tiburón en el límite con Colombia,
+                                        está dominada por la cordillera de Gunayala y tiene una plataforma continental
+                                        angosta con una amplia gama de ambientes marinos
+                                        relativamente poco alterados: mar abierto, arrecifes de coral, islas, manglares,
+                                        playas arenosas, y playas rocosas que contribuyen
                                         a una rica diversidad de flora y fauna marina.<br><br>
 
 
-                                        Al igual que el Caribe, el Pacífico en el sector este de Panamá tiene una notable diversidad de ambientes marinos.
-                                        En toda la costa de Gunayala no hay corrientes muy cerca de la costa y hay poca variación en las mareas.
+                                        Al igual que el Caribe, el Pacífico en el sector este de Panamá tiene una
+                                        notable diversidad de ambientes marinos.
+                                        En toda la costa de Gunayala no hay corrientes muy cerca de la costa y hay poca
+                                        variación en las mareas.
 
 
                                     </p>
@@ -1435,15 +1521,20 @@
                                             <h4>Suelos</h4>
                                         </b>
 
-                                        Los suelos de la región son predominantemente latisoles, profundos, porosos, friables, bien drenados;
-                                        no obstante, su fertilidad química es baja. Tienen poco material orgánico y son desde ácidos hasta muy ácidos.
+                                        Los suelos de la región son predominantemente latisoles, profundos, porosos,
+                                        friables, bien drenados;
+                                        no obstante, su fertilidad química es baja. Tienen poco material orgánico y son
+                                        desde ácidos hasta muy ácidos.
                                         No se ha realizado un estudio extensivo de los suelos de la región. <br> <br>
 
                                         Según el sistema de clasificación del Servicio de Suelos de la USDA,
-                                        la capacidad agrológica de los suelos indica que el 75 % de ellos tiene limitaciones severas
-                                        (clases VI, VII y VIII), siendo aptos principalmente para cultivos permanentes o de protección. <br> <br>
+                                        la capacidad agrológica de los suelos indica que el 75 % de ellos tiene
+                                        limitaciones severas
+                                        (clases VI, VII y VIII), siendo aptos principalmente para cultivos permanentes o
+                                        de protección. <br> <br>
 
-                                        La mayoría de los suelos con clase III, suelo químicamente fértiles se encuentran en el
+                                        La mayoría de los suelos con clase III, suelo químicamente fértiles se
+                                        encuentran en el
                                         valle del Chucunaque y bajo las aguas del Lago Bayano.
                                         En la Comarca, el 85% de los suelos no son arables (clase VI y VII) y
                                         son más aptos para cultivos permanentes o de protección. <br> <br>
@@ -1473,7 +1564,8 @@
                             <div class=" bg-gunayala text-dark p-2   ">
                                 <h5><b>Bibliografia</b> </h5><br>
 
-                                <p> <i>PEMASKY. (Octubre de 1995). Biosfera de la Comarca Gunayala. Nusagandi, Gunayala, Panamá.</i><br>
+                                <p> <i>PEMASKY. (Octubre de 1995). Biosfera de la Comarca Gunayala. Nusagandi, Gunayala,
+                                        Panamá.</i><br>
 
 
 
@@ -1510,7 +1602,8 @@
 
 
                         <div>
-                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - IV PARTE <br> (VIDEO) </b> </h2>
+                            <h2 class=" text-center mt-1"> <b> ASPECTOS GENERALES DE LA COMARCA GUNAYALA - IV PARTE <br>
+                                    (VIDEO) </b> </h2>
                         </div>
 
 
@@ -1532,7 +1625,8 @@
 
 
                                     <div class="ratio ratio-16x9">
-                                        <iframe src="https://www.youtube.com/embed/qahsjQ6c4uc" title="YouTube video" allowfullscreen></iframe>
+                                        <iframe src="https://www.youtube.com/embed/qahsjQ6c4uc" title="YouTube video"
+                                            allowfullscreen></iframe>
                                     </div>
 
 
@@ -1570,7 +1664,8 @@
 
 
 
-                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/qahsjQ6c4uc" style="text-decoration:none"> Ver Video en Youtube
+                            <a class="  icon-hover actividad  p-2 m-1 " href="https://www.youtube.com/embed/qahsjQ6c4uc"
+                                style="text-decoration:none"> Ver Video en Youtube
 
 
 
